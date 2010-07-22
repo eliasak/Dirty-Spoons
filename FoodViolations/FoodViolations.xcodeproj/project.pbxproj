@@ -1,0 +1,306 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
+		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
+		28F335F11007B36200424DE2 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28F335F01007B36200424DE2 /* RootViewController.xib */; };
+		D728EBFF11F0C5FF0049B631 /* FoodViolationsMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D728EBFD11F0C5FF0049B631 /* FoodViolationsMapViewController.m */; };
+		D728EC0011F0C5FF0049B631 /* FoodViolationsMapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D728EBFE11F0C5FF0049B631 /* FoodViolationsMapViewController.xib */; };
+		D76F0F6911EF965F00E21B0E /* FoodViolationsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* FoodViolationsAppDelegate.m */; };
+		D770B51B11F4BC6D00FC1561 /* FoodViolationsAboutRIIS.m in Sources */ = {isa = PBXBuildFile; fileRef = D770B51911F4BC6D00FC1561 /* FoodViolationsAboutRIIS.m */; };
+		D770B51C11F4BC6D00FC1561 /* FoodViolationsAboutRIIS.xib in Resources */ = {isa = PBXBuildFile; fileRef = D770B51A11F4BC6D00FC1561 /* FoodViolationsAboutRIIS.xib */; };
+		D77F3B2A11F5F60900951C1A /* RestaurantsDAO.m in Sources */ = {isa = PBXBuildFile; fileRef = D77F3B2911F5F60900951C1A /* RestaurantsDAO.m */; };
+		D77F3BEA11F7949200951C1A /* Restaurant.m in Sources */ = {isa = PBXBuildFile; fileRef = D77F3BE911F7949200951C1A /* Restaurant.m */; };
+		D7A0A67711A82AED006A0B77 /* RestaurantArray.plist in Resources */ = {isa = PBXBuildFile; fileRef = D7A0A67611A82AED006A0B77 /* RestaurantArray.plist */; };
+		D7A0A6EC11A85E00006A0B77 /* ViolationDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7A0A6EA11A85E00006A0B77 /* ViolationDetailViewController.m */; };
+		D7A0A6ED11A85E00006A0B77 /* ViolationDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D7A0A6EB11A85E00006A0B77 /* ViolationDetailViewController.xib */; };
+		D7A0A81511B94C1E006A0B77 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7A0A81411B94C1E006A0B77 /* CoreLocation.framework */; };
+		D7A0A81C11B94F52006A0B77 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7A0A81B11B94F52006A0B77 /* MapKit.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* FoodViolationsAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FoodViolationsAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* FoodViolationsAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FoodViolationsAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* FoodViolations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodViolations.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* FoodViolations_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FoodViolations_Prefix.pch; sourceTree = "<group>"; };
+		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		28F335F01007B36200424DE2 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ../main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* FoodViolations-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FoodViolations-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		D728EBFC11F0C5FF0049B631 /* FoodViolationsMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FoodViolationsMapViewController.h; path = ../FoodViolationsMapViewController.h; sourceTree = "<group>"; };
+		D728EBFD11F0C5FF0049B631 /* FoodViolationsMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FoodViolationsMapViewController.m; path = ../FoodViolationsMapViewController.m; sourceTree = "<group>"; };
+		D728EBFE11F0C5FF0049B631 /* FoodViolationsMapViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FoodViolationsMapViewController.xib; sourceTree = "<group>"; };
+		D770B51811F4BC6D00FC1561 /* FoodViolationsAboutRIIS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FoodViolationsAboutRIIS.h; path = ../FoodViolationsAboutRIIS.h; sourceTree = "<group>"; };
+		D770B51911F4BC6D00FC1561 /* FoodViolationsAboutRIIS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FoodViolationsAboutRIIS.m; path = ../FoodViolationsAboutRIIS.m; sourceTree = "<group>"; };
+		D770B51A11F4BC6D00FC1561 /* FoodViolationsAboutRIIS.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FoodViolationsAboutRIIS.xib; sourceTree = "<group>"; };
+		D77F3B2811F5F60900951C1A /* RestaurantsDAO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestaurantsDAO.h; sourceTree = "<group>"; };
+		D77F3B2911F5F60900951C1A /* RestaurantsDAO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestaurantsDAO.m; sourceTree = "<group>"; };
+		D77F3BE811F7949200951C1A /* Restaurant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Restaurant.h; sourceTree = "<group>"; };
+		D77F3BE911F7949200951C1A /* Restaurant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Restaurant.m; sourceTree = "<group>"; };
+		D7A0A67611A82AED006A0B77 /* RestaurantArray.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = RestaurantArray.plist; sourceTree = "<group>"; };
+		D7A0A6E911A85E00006A0B77 /* ViolationDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViolationDetailViewController.h; path = ../ViolationDetailViewController.h; sourceTree = "<group>"; };
+		D7A0A6EA11A85E00006A0B77 /* ViolationDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViolationDetailViewController.m; path = ../ViolationDetailViewController.m; sourceTree = "<group>"; };
+		D7A0A6EB11A85E00006A0B77 /* ViolationDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViolationDetailViewController.xib; sourceTree = "<group>"; };
+		D7A0A73B11B13F23006A0B77 /* RestaurantConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestaurantConstants.h; sourceTree = "<group>"; };
+		D7A0A81411B94C1E006A0B77 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		D7A0A81B11B94F52006A0B77 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				D7A0A81511B94C1E006A0B77 /* CoreLocation.framework in Frameworks */,
+				D7A0A81C11B94F52006A0B77 /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				29B97316FDCFA39411CA2CEA /* main.m */,
+				D770B51811F4BC6D00FC1561 /* FoodViolationsAboutRIIS.h */,
+				D770B51911F4BC6D00FC1561 /* FoodViolationsAboutRIIS.m */,
+				D728EBFC11F0C5FF0049B631 /* FoodViolationsMapViewController.h */,
+				D728EBFD11F0C5FF0049B631 /* FoodViolationsMapViewController.m */,
+				D7A0A6E911A85E00006A0B77 /* ViolationDetailViewController.h */,
+				D7A0A6EA11A85E00006A0B77 /* ViolationDetailViewController.m */,
+				D7A0A73B11B13F23006A0B77 /* RestaurantConstants.h */,
+				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
+				28C286E00D94DF7D0034E888 /* RootViewController.m */,
+				1D3623240D0F684500981E51 /* FoodViolationsAppDelegate.h */,
+				1D3623250D0F684500981E51 /* FoodViolationsAppDelegate.m */,
+				D77F3B2811F5F60900951C1A /* RestaurantsDAO.h */,
+				D77F3B2911F5F60900951C1A /* RestaurantsDAO.m */,
+				D77F3BE811F7949200951C1A /* Restaurant.h */,
+				D77F3BE911F7949200951C1A /* Restaurant.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* FoodViolations.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* FoodViolations_Prefix.pch */,
+				D7A0A6EB11A85E00006A0B77 /* ViolationDetailViewController.xib */,
+				28F335F01007B36200424DE2 /* RootViewController.xib */,
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* FoodViolations-Info.plist */,
+				D7A0A67611A82AED006A0B77 /* RestaurantArray.plist */,
+				D728EBFE11F0C5FF0049B631 /* FoodViolationsMapViewController.xib */,
+				D770B51A11F4BC6D00FC1561 /* FoodViolationsAboutRIIS.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+				D7A0A81411B94C1E006A0B77 /* CoreLocation.framework */,
+				D7A0A81B11B94F52006A0B77 /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* FoodViolations */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FoodViolations" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FoodViolations;
+			productName = FoodViolations;
+			productReference = 1D6058910D05DD3D006BFB54 /* FoodViolations.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FoodViolations" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* FoodViolations */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
+				28F335F11007B36200424DE2 /* RootViewController.xib in Resources */,
+				D7A0A67711A82AED006A0B77 /* RestaurantArray.plist in Resources */,
+				D7A0A6ED11A85E00006A0B77 /* ViolationDetailViewController.xib in Resources */,
+				D728EC0011F0C5FF0049B631 /* FoodViolationsMapViewController.xib in Resources */,
+				D770B51C11F4BC6D00FC1561 /* FoodViolationsAboutRIIS.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
+				D7A0A6EC11A85E00006A0B77 /* ViolationDetailViewController.m in Sources */,
+				D76F0F6911EF965F00E21B0E /* FoodViolationsAppDelegate.m in Sources */,
+				D728EBFF11F0C5FF0049B631 /* FoodViolationsMapViewController.m in Sources */,
+				D770B51B11F4BC6D00FC1561 /* FoodViolationsAboutRIIS.m in Sources */,
+				D77F3B2A11F5F60900951C1A /* RestaurantsDAO.m in Sources */,
+				D77F3BEA11F7949200951C1A /* Restaurant.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FoodViolations_Prefix.pch;
+				INFOPLIST_FILE = "FoodViolations-Info.plist";
+				PRODUCT_NAME = FoodViolations;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FoodViolations_Prefix.pch;
+				INFOPLIST_FILE = "FoodViolations-Info.plist";
+				PRODUCT_NAME = FoodViolations;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FoodViolations" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FoodViolations" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
