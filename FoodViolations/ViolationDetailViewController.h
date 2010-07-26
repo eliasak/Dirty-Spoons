@@ -20,7 +20,19 @@
 	IBOutlet UITextField *restaurantLevelTextField;
 	IBOutlet UITextView *restaurantDescTextView;
 
+	IBOutlet UIBarButtonItem *mapButton;
+	IBOutlet UIBarButtonItem *searchButton;
+	IBOutlet UIBarButtonItem *aboutButton;
 }
+
+@property (retain, nonatomic) UIBarButtonItem *mapButton;
+-(IBAction)mapButtonPressed:(id) sender;
+
+@property (retain, nonatomic) UIBarButtonItem *searchButton;
+-(IBAction)searchButtonPressed:(id) sender;
+
+@property (retain, nonatomic) UIBarButtonItem *aboutButton;
+-(IBAction)aboutButtonPressed:(id) sender;
 
 @property (nonatomic, retain) IBOutlet MKMapView *restaurantMapView;
 // @property (nonatomic, retain) CLLocationManager *locationManager;

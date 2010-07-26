@@ -8,7 +8,10 @@
 
 #import "ViolationDetailViewController.h"
 #import "RestaurantConstants.h"
-
+#import "FoodViolationsAboutRIIS.h"
+#import "FoodViolationsMapViewController.h"
+#import "RestaurantsDAO.h";
+#import "Restaurant.h";
 
 @implementation ViolationDetailViewController
 @synthesize restaurant, restaurantNameTextField, restaurantAddressTextView, restaurantLevelTextField, restaurantDateTextField, restaurantDescTextView, restaurantMapView;
@@ -41,36 +44,73 @@
 
 
 - (void) viewWillAppear:(BOOL)animated {
-	[super viewWillAppear:animated];
-	CLLocationCoordinate2D mapCenter;
+	
+	RestaurantsDAO* rsdao = [RestaurantsDAO GetInstance];
+
+	restaurantNameTextField.text = rsdao.CurrentRestaurant.Name;
+	restaurantAddressTextView.text = rsdao.CurrentRestaurant.Address;
+	restaurantDateTextField.text = rsdao.CurrentRestaurant.Date;
+	restaurantLevelTextField.text = @"<incident level>";
+	restaurantDescTextView.text = @"<incident description>";
+	
+//	[super viewWillAppear:animated];
+//	CLLocationCoordinate2D mapCenter;
 	// CLLocation *curPos = self.locationManager.location;
 		
-	mapCenter.latitude = [[restaurant objectForKey:LAT_KEY] doubleValue];
-	mapCenter.longitude = [[restaurant objectForKey:LONG_KEY] doubleValue];
-	
-	
-	MKCoordinateSpan mapSpan;
-	mapSpan.latitudeDelta = 0.003;
-	mapSpan.longitudeDelta = 0.003;
-	
-	MKCoordinateRegion mapRegion;
-	mapRegion.center = mapCenter;
-	mapRegion.span = mapSpan;
+//	mapCenter.latitude = [[restaurant objectForKey:LAT_KEY] doubleValue];
+//	mapCenter.longitude = [[restaurant objectForKey:LONG_KEY] doubleValue];
+//	
+//	
+//	MKCoordinateSpan mapSpan;
+//	mapSpan.latitudeDelta = 0.003;
+//	mapSpan.longitudeDelta = 0.003;
+//	
+//	MKCoordinateRegion mapRegion;
+//	mapRegion.center = mapCenter;
+//	mapRegion.span = mapSpan;
 	
 	//annotation = [[AddressAnnotation alloc] initWithCoordinate:mapCenter];
 	//[self.restaurantMapView addAnnotation:annotation];
 	
-	self.restaurantMapView.region = mapRegion;
-	self.restaurantMapView.mapType = MKMapTypeStandard;
+//	self.restaurantMapView.region = mapRegion;
+//	self.restaurantMapView.mapType = MKMapTypeStandard;
 	
 	
-	restaurantNameTextField.text = [restaurant objectForKey:NAME_KEY];
-	restaurantAddressTextView.text = [restaurant objectForKey:ADDRESS_KEY];
-	restaurantDateTextField.text = [restaurant objectForKey:DATE_KEY];
-	restaurantLevelTextField.text = [restaurant objectForKey:LEVEL_KEY];
-	restaurantDescTextView.text = [restaurant objectForKey:DESCRIPTION_KEY];
+//	restaurantNameTextField.text = [restaurant objectForKey:NAME_KEY];
+//	restaurantAddressTextView.text = [restaurant objectForKey:ADDRESS_KEY];
+//	restaurantDateTextField.text = [restaurant objectForKey:DATE_KEY];
+//	restaurantLevelTextField.text = [restaurant objectForKey:LEVEL_KEY];
+//	restaurantDescTextView.text = [restaurant objectForKey:DESCRIPTION_KEY];
 
 	
+}
+
+@synthesize searchButton;
+-(IBAction) searchButtonPressed:(id) sender
+{
+	[self.navigationController popToRootViewControllerAnimated:YES];
+}
+
+@synthesize aboutButton;
+-(IBAction)aboutButtonPressed:(id) sender
+{
+	FoodViolationsAboutRIIS *foodViolationsAboutRIIS = [[FoodViolationsAboutRIIS alloc]
+														initWithNibName:@"FoodViolationsAboutRIIS"
+														bundle:nil];
+	
+	[self.navigationController presentModalViewController:foodViolationsAboutRIIS animated:YES];
+	[foodViolationsAboutRIIS release];
+}
+
+@synthesize mapButton;
+-(IBAction)mapButtonPressed:(id) sender
+{
+	FoodViolationsMapViewController *foodViolationsMapViewController = [[FoodViolationsMapViewController alloc]
+														initWithNibName:@"FoodViolationsMapViewController"
+														bundle:nil];
+	
+	[self.navigationController presentModalViewController:foodViolationsMapViewController animated:YES];
+	[FoodViolationsMapViewController release];
 }
 
 

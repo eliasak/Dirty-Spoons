@@ -13,11 +13,18 @@
 	IBOutlet MKMapView *restaurantsMapView;
 
 	IBOutlet UILabel *debugText;
+	IBOutlet UIToolbar*	toolBarBottom;
+	IBOutlet UIBarButtonItem *mapButton;
 	IBOutlet UIBarButtonItem *searchButton;
 	IBOutlet UIBarButtonItem *aboutButton;
 }
 
 @property (retain, nonatomic) UILabel *debugText;
+
+@property (retain, nonatomic) UIToolbar* toolBarBottom;
+
+@property (retain, nonatomic) UIBarButtonItem *mapButton;
+-(IBAction)mapButtonPressed:(id) sender;
 
 @property (retain, nonatomic) UIBarButtonItem *searchButton;
 -(IBAction)searchButtonPressed:(id) sender;

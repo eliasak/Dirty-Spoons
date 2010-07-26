@@ -41,7 +41,6 @@
 
 -(IBAction)okButtonPressed:(id) sender
 {
-	okButtonLabel.text = @"Click";
 	[self dismissModalViewControllerAnimated:YES];
 }
 

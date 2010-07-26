@@ -116,6 +116,22 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>Spaghetti Works</string>
+		<key>address</key>
+		<string>49095 Pontiac Trail, Wixom, MI 48393</string>
+		<key>date</key>
+		<string>April 17, 2007 6:01:54 PM</string>
+		<key>level</key>
+		<string>Critical</string>
+		<key>description</key>
+		<string>Observed Turkey in top loader at 48F</string>
+		<key>latitude</key>
+		<string>42.5244</string>
+		<key>longitude</key>
+		<string>-83.5341</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Oso Burrito</string>
 		<key>address</key>
 		<string>211 William St., Royal Oak, MI 48067</string>
@@ -161,22 +177,6 @@
 		<string>42.4847</string>
 		<key>longitude</key>
 		<string>-83.3598</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Spaghetti Works</string>
-		<key>address</key>
-		<string>49095 Pontiac Trail, Wixom, MI 48393</string>
-		<key>date</key>
-		<string>April 17, 2007 6:01:54 PM</string>
-		<key>level</key>
-		<string>Critical</string>
-		<key>description</key>
-		<string>Observed Turkey in top loader at 48F</string>
-		<key>latitude</key>
-		<string>42.5244</string>
-		<key>longitude</key>
-		<string>-83.5341</string>
 	</dict>
 	<dict>
 		<key>name</key>
