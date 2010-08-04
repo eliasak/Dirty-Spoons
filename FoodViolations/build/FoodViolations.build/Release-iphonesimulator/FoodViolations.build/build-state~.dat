@@ -1,359 +1,0 @@
-TFoodViolations
-v7
-r0
-t297892390.680427
-cCheck dependencies
-cProcessInfoPlistFile /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/Info.plist FoodViolations-Info.plist
-cCompileXIB /Users/godfreynolan/Documents/FoodViolations/MainWindow.xib
-cCompileXIB /Users/godfreynolan/Documents/FoodViolations/RootViewController.xib
-cCopyPlistFile /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/RestaurantArray.plist RestaurantArray.plist
-cCompileXIB /Users/godfreynolan/Documents/FoodViolations/ViolationDetailViewController.xib
-cProcessPCH /var/folders/zA/zAImBNqYE0Kz9IU25P7lKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FoodViolations_Prefix-ewmvllgpdltbbiawviswrsbqiifl/FoodViolations_Prefix.pch.gch FoodViolations_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/main.o /Users/godfreynolan/Documents/FoodViolations/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/FoodViolationsAppDelegate.o /Users/godfreynolan/Documents/FoodViolations/Classes/FoodViolationsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/RootViewController.o /Users/godfreynolan/Documents/FoodViolations/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/ViolationDetailViewController.o /Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations normal i386
-cGenerateDSYMFile /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app.dSYM /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations
-cTouch /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
-c000000004B69B45C00000000000000EE
-t1265218652
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004B2B4CC3000000000026EE30
-t1261128899
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
-c000000004B2B61C3000000000004AFC0
-t1261134275
-s307136
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
-c000000004B2B61BC00000000000001AF
-t1261134268
-s431
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B2B4DC8000000000027E880
-t1261129160
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004B2B4DAE0000000000001355
-t1261129134
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
-c000000004B2B634C000000000000017D
-t1261134668
-s381
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
-c000000004B2B6372000000000010EB60
-t1261134706
-s1108832
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004B2B61620000000000000788
-t1261134178
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004B2B62B500000000016721E0
-t1261134517
-s23536096
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
-c000000004B2B4EE200000000000019F9
-t1261129442
-s6649
-
-N/Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.m
-c000000004C09593A0000000000000BC0
-t1275681082
-s3008
-i"ViolationDetailViewController.h"
-i"RestaurantConstants.h"
-
-N/Users/godfreynolan/Documents/FoodViolations/Classes/FoodViolationsAppDelegate.h
-c000000004BF7DBAF00000000000001E0
-t1274534831
-s480
-i<UIKit/UIKit.h>
-
-N/Users/godfreynolan/Documents/FoodViolations/Classes/FoodViolationsAppDelegate.m
-c000000004BF7DBAF000000000000037C
-t1274534831
-s892
-i"FoodViolationsAppDelegate.h"
-i"RootViewController.h"
-
-N/Users/godfreynolan/Documents/FoodViolations/Classes/RestaurantConstants.h
-c000000004C091BD90000000000000163
-t1275665369
-s355
-
-N/Users/godfreynolan/Documents/FoodViolations/Classes/RootViewController.h
-c000000004BF7E28E0000000000000144
-t1274536590
-s324
-i<UIKit/UIKit.h>
-
-N/Users/godfreynolan/Documents/FoodViolations/Classes/RootViewController.m
-c000000004C03A56E0000000000001519
-t1275307374
-s5401
-i"RootViewController.h"
-i"ViolationDetailViewController.h"
-i"RestaurantConstants.h"
-
-N/Users/godfreynolan/Documents/FoodViolations/FoodViolations_Prefix.pch
-c000000004BF7DBAF000000000000014E
-t1274534831
-s334
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/godfreynolan/Documents/FoodViolations/MainWindow.xib
-c000000004BF7F67E0000000000005D27
-t1274541694
-s23847
-
-N/Users/godfreynolan/Documents/FoodViolations/RestaurantArray.plist
-c000000004C095EFB0000000000001D8A
-t1275682555
-s7562
-
-N/Users/godfreynolan/Documents/FoodViolations/RootViewController.xib
-c000000004BF7F6780000000000004564
-t1274541688
-s17764
-
-N/Users/godfreynolan/Documents/FoodViolations/ViolationDetailViewController.h
-c000000004C09594E0000000000000444
-t1275681102
-s1092
-i<UIKit/UIKit.h>
-i<CoreLocation/CoreLocation.h>
-i<MapKit/MapKit.h>
-
-N/Users/godfreynolan/Documents/FoodViolations/ViolationDetailViewController.xib
-c000000004C0B78F100000000000084E5
-t1275820273
-s34021
-
-N/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/FoodViolations.LinkFileList
-c000000004C1142A4000000000000027C
-t1276199588
-s636
-
-N/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/FoodViolationsAppDelegate.o
-t1276199590
-s39868
-
-N/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/RootViewController.o
-t1276199590
-s40200
-
-N/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/ViolationDetailViewController.o
-t1276199590
-s44592
-
-N/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/main.o
-t1276199590
-s5940
-
-N/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app
-t1276199590
-s306
-
-N/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app.dSYM
-t1276199590
-s102
-
-N/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations
-t1276199590
-s28888
-
-N/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/Info.plist
-t1276199589
-s621
-
-N/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/MainWindow.nib
-t1276199589
-s2071
-
-N/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/PkgInfo
-t1276199589
-s8
-
-N/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/RestaurantArray.plist
-t1276199589
-s2763
-
-N/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/RootViewController.nib
-t1276199589
-s1387
-
-N/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/ViolationDetailViewController.nib
-t1276199589
-s5397
-
-N/Users/godfreynolan/Documents/FoodViolations/main.m
-c000000004BF7DBAF0000000000000168
-t1274534831
-s360
-i<UIKit/UIKit.h>
-
-N/var/folders/zA/zAImBNqYE0Kz9IU25P7lKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FoodViolations_Prefix-ewmvllgpdltbbiawviswrsbqiifl/FoodViolations_Prefix.pch.gch
-t1276199590
-s12727760
-
-NFoodViolations-Info.plist
-c000000004BF7DBAF000000000000038D
-t1274534831
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies297892388#297892389#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/FoodViolationsAppDelegate.o /Users/godfreynolan/Documents/FoodViolations/Classes/FoodViolationsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s297892390.396646
-e297892390.490899
-r1
-xCompileC
-xbuild/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/FoodViolationsAppDelegate.o
-x/Users/godfreynolan/Documents/FoodViolations/Classes/FoodViolationsAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Users/godfreynolan/Documents/FoodViolations/Classes/FoodViolationsAppDelegate.m297892390#297892390#0(0"0(0#0#80"/Users/godfreynolan/Documents/FoodViolations/Classes/FoodViolationsAppDelegate.m4300911832#2174"    cd /Users/godfreynolan/Documents/FoodViolations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-generated-files.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-own-target-headers.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-all-target-headers.hmap -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-project-headers.hmap -F/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator -I/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/include -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources/i386 -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/zA/zAImBNqYE0Kz9IU25P7lKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FoodViolations_Prefix-ewmvllgpdltbbiawviswrsbqiifl/FoodViolations_Prefix.pch -c /Users/godfreynolan/Documents/FoodViolations/Classes/FoodViolationsAppDelegate.m -o /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/FoodViolationsAppDelegate.o0#
-
-CCompileC build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/RootViewController.o /Users/godfreynolan/Documents/FoodViolations/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s297892390.456623
-e297892390.592987
-r1
-xCompileC
-xbuild/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/RootViewController.o
-x/Users/godfreynolan/Documents/FoodViolations/Classes/RootViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@81"Compile /Users/godfreynolan/Documents/FoodViolations/Classes/RootViewController.m297892390#297892390#0(0"0(0#0#73"/Users/godfreynolan/Documents/FoodViolations/Classes/RootViewController.m4300911832#2160"    cd /Users/godfreynolan/Documents/FoodViolations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-generated-files.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-own-target-headers.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-all-target-headers.hmap -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-project-headers.hmap -F/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator -I/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/include -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources/i386 -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/zA/zAImBNqYE0Kz9IU25P7lKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FoodViolations_Prefix-ewmvllgpdltbbiawviswrsbqiifl/FoodViolations_Prefix.pch -c /Users/godfreynolan/Documents/FoodViolations/Classes/RootViewController.m -o /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/RootViewController.o0#
-
-CCompileC build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/ViolationDetailViewController.o /Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s297892390.491009
-e297892390.637870
-r1
-xCompileC
-xbuild/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/ViolationDetailViewController.o
-x/Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@95"Compile /Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.m297892390#297892390#0(0"0(0#0#87"/Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.m4300911832#2185"    cd /Users/godfreynolan/Documents/FoodViolations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-generated-files.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-own-target-headers.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-all-target-headers.hmap -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-project-headers.hmap -F/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator -I/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/include -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources/i386 -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/zA/zAImBNqYE0Kz9IU25P7lKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FoodViolations_Prefix-ewmvllgpdltbbiawviswrsbqiifl/FoodViolations_Prefix.pch -c /Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.m -o /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/ViolationDetailViewController.o0#
-
-CCompileC build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/main.o /Users/godfreynolan/Documents/FoodViolations/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s297892390.395469
-e297892390.456515
-r1
-xCompileC
-xbuild/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/main.o
-x/Users/godfreynolan/Documents/FoodViolations/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@59"Compile /Users/godfreynolan/Documents/FoodViolations/main.m297892390#297892390#0(0"0(0#0#51"/Users/godfreynolan/Documents/FoodViolations/main.m4300911832#2124"    cd /Users/godfreynolan/Documents/FoodViolations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-generated-files.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-own-target-headers.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-all-target-headers.hmap -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-project-headers.hmap -F/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator -I/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/include -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources/i386 -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/zA/zAImBNqYE0Kz9IU25P7lKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FoodViolations_Prefix-ewmvllgpdltbbiawviswrsbqiifl/FoodViolations_Prefix.pch -c /Users/godfreynolan/Documents/FoodViolations/main.m -o /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/godfreynolan/Documents/FoodViolations/MainWindow.xib
-s297892389.025968
-e297892389.401588
-r1
-xCompileXIB
-x/Users/godfreynolan/Documents/FoodViolations/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib297892389#297892389#0(0"0(0#0#59"/Users/godfreynolan/Documents/FoodViolations/MainWindow.xib4300911832#509"    cd /Users/godfreynolan/Documents/FoodViolations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/MainWindow.nib /Users/godfreynolan/Documents/FoodViolations/MainWindow.xib0#
-
-CCompileXIB /Users/godfreynolan/Documents/FoodViolations/RootViewController.xib
-s297892389.026688
-e297892389.361245
-r1
-xCompileXIB
-x/Users/godfreynolan/Documents/FoodViolations/RootViewController.xib
-lSLF07#2@33"CompileXIB RootViewController.xib297892389#297892389#0(0"0(0#0#67"/Users/godfreynolan/Documents/FoodViolations/RootViewController.xib4300911832#525"    cd /Users/godfreynolan/Documents/FoodViolations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/RootViewController.nib /Users/godfreynolan/Documents/FoodViolations/RootViewController.xib0#
-
-CCompileXIB /Users/godfreynolan/Documents/FoodViolations/ViolationDetailViewController.xib
-s297892389.384734
-e297892389.800819
-r1
-xCompileXIB
-x/Users/godfreynolan/Documents/FoodViolations/ViolationDetailViewController.xib
-lSLF07#2@44"CompileXIB ViolationDetailViewController.xib297892389#297892389#0(0"0(0#0#78"/Users/godfreynolan/Documents/FoodViolations/ViolationDetailViewController.xib4300911832#547"    cd /Users/godfreynolan/Documents/FoodViolations    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/ViolationDetailViewController.nib /Users/godfreynolan/Documents/FoodViolations/ViolationDetailViewController.xib0#
-
-CCopyPlistFile /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/RestaurantArray.plist RestaurantArray.plist
-s297892389.361342
-e297892389.384638
-r1
-xCopyPlistFile
-x/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/RestaurantArray.plist
-xRestaurantArray.plist
-lSLF07#2@26"Copy RestaurantArray.plist297892389#297892389#0(0"0(0#0#66"/Users/godfreynolan/Documents/FoodViolations/RestaurantArray.plist4300911832#417"    cd /Users/godfreynolan/Documents/FoodViolations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 RestaurantArray.plist --outdir /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app0#
-
-CGenerateDSYMFile /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app.dSYM /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations
-s297892390.660661
-e297892390.677367
-r1
-xGenerateDSYMFile
-x/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app.dSYM
-x/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations
-lSLF07#2@134"GenerateDSYMFile build/Release-iphonesimulator/FoodViolations.app.dSYM build/Release-iphonesimulator/FoodViolations.app/FoodViolations297892390#297892390#0(0"0(0#0#108"/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations4300911832#426"    cd /Users/godfreynolan/Documents/FoodViolations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations -o /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app.dSYM0#
-
-CLd /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations normal i386
-s297892390.637972
-e297892390.660558
-r1
-xLd
-x/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations
-xnormal
-xi386
-lSLF07#2@113"Link /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations297892390#297892390#0(0"0(0#0#0"4300911832#979"    cd /Users/godfreynolan/Documents/FoodViolations    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator -F/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator -filelist /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/Objects-normal/i386/FoodViolations.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/FoodViolations0#
-
-CProcessInfoPlistFile /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/Info.plist FoodViolations-Info.plist
-s297892389.008852
-e297892389.025866
-r1
-xProcessInfoPlistFile
-x/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/Info.plist
-xFoodViolations-Info.plist
-lSLF07#2@33"Process FoodViolations-Info.plist297892389#297892389#0(0"0(0#0#70"/Users/godfreynolan/Documents/FoodViolations/FoodViolations-Info.plist4300911832#522"    cd /Users/godfreynolan/Documents/FoodViolations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FoodViolations-Info.plist -genpkginfo /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app/Info.plist0#
-
-CProcessPCH /var/folders/zA/zAImBNqYE0Kz9IU25P7lKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FoodViolations_Prefix-ewmvllgpdltbbiawviswrsbqiifl/FoodViolations_Prefix.pch.gch FoodViolations_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s297892389.800951
-e297892390.395347
-r1
-xProcessPCH
-x/var/folders/zA/zAImBNqYE0Kz9IU25P7lKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FoodViolations_Prefix-ewmvllgpdltbbiawviswrsbqiifl/FoodViolations_Prefix.pch.gch
-xFoodViolations_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@36"Precompile FoodViolations_Prefix.pch297892389#297892390#0(0"0(0#0#70"/Users/godfreynolan/Documents/FoodViolations/FoodViolations_Prefix.pch4300911832#2001"    cd /Users/godfreynolan/Documents/FoodViolations    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-generated-files.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-own-target-headers.hmap -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-all-target-headers.hmap -iquote /Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/FoodViolations-project-headers.hmap -F/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator -I/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/include -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources/i386 -I/Users/godfreynolan/Documents/FoodViolations/build/FoodViolations.build/Release-iphonesimulator/FoodViolations.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/godfreynolan/Documents/FoodViolations/FoodViolations_Prefix.pch -o /var/folders/zA/zAImBNqYE0Kz9IU25P7lKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FoodViolations_Prefix-ewmvllgpdltbbiawviswrsbqiifl/FoodViolations_Prefix.pch.gch0#
-
-CTouch /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app
-s297892390.677459
-e297892390.680377
-r1
-xTouch
-x/Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app
-lSLF07#2@99"Touch /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app297892390#297892390#0(0"0(0#0#0"4300911832#299"    cd /Users/godfreynolan/Documents/FoodViolations    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/godfreynolan/Documents/FoodViolations/build/Release-iphonesimulator/FoodViolations.app0#
-

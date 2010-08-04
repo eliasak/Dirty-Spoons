@@ -1,3 +1,0 @@
-In file included from /Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.m:9:
-/Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.h:37: warning: property 'coordinate' 'retain' attribute does not match protocol 'MKAnnotation' property
-/Users/godfreynolan/Documents/FoodViolations/Classes/../ViolationDetailViewController.h:37: error: property 'coordinate' with 'retain' attribute must be of object type
