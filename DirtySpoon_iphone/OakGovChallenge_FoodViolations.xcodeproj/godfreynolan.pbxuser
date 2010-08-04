@@ -1,0 +1,701 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* OakGovChallenge_FoodViolations */ = {
+		activeExec = 0;
+		executables = (
+			D7C622F711FE18E200F6F4B6 /* OakGovChallenge_FoodViolations */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = D7C622F711FE18E200F6F4B6 /* OakGovChallenge_FoodViolations */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OakGovChallenge_FoodViolations */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* OakGovChallenge_FoodViolations */,
+		);
+		breakpoints = (
+			D73E6BD81208BD3200F85035 /* ViolationDetailViewController.m:181 */,
+		);
+		codeSenseManager = D7C6230B11FE190000F6F4B6 /* Code sense */;
+		executables = (
+			D7C622F711FE18E200F6F4B6 /* OakGovChallenge_FoodViolations */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					559,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					744,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					685,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302640650;
+			PBXWorkspaceStateSaveDate = 302640650;
+		};
+		perUserProjectItems = {
+			D72D032312086346000B9D62 /* PBXBookmark */ = D72D032312086346000B9D62 /* PBXBookmark */;
+			D73E6ADB1208913500F85035 /* PBXTextBookmark */ = D73E6ADB1208913500F85035 /* PBXTextBookmark */;
+			D73E6B061208A8A200F85035 /* PBXTextBookmark */ = D73E6B061208A8A200F85035 /* PBXTextBookmark */;
+			D73E6BC81208BC0700F85035 /* PBXTextBookmark */ = D73E6BC81208BC0700F85035 /* PBXTextBookmark */;
+			D73E6BCF1208BC8E00F85035 /* PBXTextBookmark */ = D73E6BCF1208BC8E00F85035 /* PBXTextBookmark */;
+			D73E6C151208C97500F85035 /* PBXTextBookmark */ = D73E6C151208C97500F85035 /* PBXTextBookmark */;
+			D73E6C1B1208C9D500F85035 /* PBXTextBookmark */ = D73E6C1B1208C9D500F85035 /* PBXTextBookmark */;
+			D73E6C2A1208CAAB00F85035 /* PBXTextBookmark */ = D73E6C2A1208CAAB00F85035 /* PBXTextBookmark */;
+			D73E6C341208CB6600F85035 /* PBXTextBookmark */ = D73E6C341208CB6600F85035 /* PBXTextBookmark */;
+			D73E6C411208CBCC00F85035 /* PBXTextBookmark */ = D73E6C411208CBCC00F85035 /* PBXTextBookmark */;
+			D73E6C4C1208CC5300F85035 /* PBXTextBookmark */ = D73E6C4C1208CC5300F85035 /* PBXTextBookmark */;
+			D758FF6D11FF1C4F008AF43B /* PBXTextBookmark */ = D758FF6D11FF1C4F008AF43B /* PBXTextBookmark */;
+			D77A81521209E0FF00BC8C82 /* PBXTextBookmark */ = D77A81521209E0FF00BC8C82 /* PBXTextBookmark */;
+			D77A81591209E2AB00BC8C82 /* PBXTextBookmark */ = D77A81591209E2AB00BC8C82 /* PBXTextBookmark */;
+			D77A81761209E7FB00BC8C82 /* PBXTextBookmark */ = D77A81761209E7FB00BC8C82 /* PBXTextBookmark */;
+			D77A81771209E7FB00BC8C82 /* PBXTextBookmark */ = D77A81771209E7FB00BC8C82 /* PBXTextBookmark */;
+			D77A81781209E7FB00BC8C82 /* PBXTextBookmark */ = D77A81781209E7FB00BC8C82 /* PBXTextBookmark */;
+			D77A819A1209E94A00BC8C82 /* PBXTextBookmark */ = D77A819A1209E94A00BC8C82 /* PBXTextBookmark */;
+			D7A957751209EE6300E06C7B /* PBXTextBookmark */ = D7A957751209EE6300E06C7B /* PBXTextBookmark */;
+			D7BA3B2B120884BB00A8A94F /* PlistBookmark */ = D7BA3B2B120884BB00A8A94F /* PlistBookmark */;
+			D7BA3B2D120884BB00A8A94F /* PBXTextBookmark */ = D7BA3B2D120884BB00A8A94F /* PBXTextBookmark */;
+			D7BA3B2E120884BB00A8A94F /* PBXTextBookmark */ = D7BA3B2E120884BB00A8A94F /* PBXTextBookmark */;
+			D7BA3B2F120884BB00A8A94F /* PBXTextBookmark */ = D7BA3B2F120884BB00A8A94F /* PBXTextBookmark */;
+			D7BA3B5612088AB900A8A94F /* PBXBookmark */ = D7BA3B5612088AB900A8A94F /* PBXBookmark */;
+			D7BA3B5712088AB900A8A94F /* PBXTextBookmark */ = D7BA3B5712088AB900A8A94F /* PBXTextBookmark */;
+			D7BA3B5B12088AB900A8A94F /* PBXTextBookmark */ = D7BA3B5B12088AB900A8A94F /* PBXTextBookmark */;
+			D7BA3B5C12088AB900A8A94F /* PBXTextBookmark */ = D7BA3B5C12088AB900A8A94F /* PBXTextBookmark */;
+			D7BA3B5E12088AB900A8A94F /* PBXTextBookmark */ = D7BA3B5E12088AB900A8A94F /* PBXTextBookmark */;
+			D7BA3B6D12088BF100A8A94F /* PBXTextBookmark */ = D7BA3B6D12088BF100A8A94F /* PBXTextBookmark */;
+			D7BA3B6E12088BF100A8A94F /* PBXTextBookmark */ = D7BA3B6E12088BF100A8A94F /* PBXTextBookmark */;
+			D7BA3B831208904C00A8A94F /* PlistBookmark */ = D7BA3B831208904C00A8A94F /* PlistBookmark */;
+		};
+		sourceControlManager = D7C6230A11FE190000F6F4B6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 512}}";
+			sepNavSelRange = "{372, 0}";
+			sepNavVisRange = "{0, 372}";
+		};
+	};
+	D72D032312086346000B9D62 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D791956211FF9FDE005EFB2A /* button_right.png */;
+	};
+	D73E6ADB1208913500F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEE711FF1685008AF43B /* OakGovChallenge_FoodViolations_Prefix.pch */;
+		name = "OakGovChallenge_FoodViolations_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 253;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 0;
+	};
+	D73E6B061208A8A200F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEBF11FF1540008AF43B /* RestaurantConstants.h */;
+		name = "RestaurantConstants.h: 14";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	D73E6BC81208BC0700F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7A6466F1200E3FA00B0B131 /* Violation.h */;
+		name = "Violation.h: 24";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	D73E6BCF1208BC8E00F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7A646701200E3FA00B0B131 /* Violation.m */;
+		name = "Violation.m: 40";
+		rLen = 0;
+		rLoc = 693;
+		rType = 0;
+		vrLen = 596;
+		vrLoc = 148;
+	};
+	D73E6BD81208BD3200F85035 /* ViolationDetailViewController.m:181 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D758FEC311FF1540008AF43B /* ViolationDetailViewController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 8;
+		ignoreCount = 0;
+		lineNumber = 181;
+		location = OakGovChallenge_FoodViolations;
+		modificationTime = 302562819.283334;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D73E6C151208C97500F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEBD11FF1540008AF43B /* Restaurant.h */;
+		name = "Restaurant.h: 31";
+		rLen = 0;
+		rLoc = 647;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 199;
+	};
+	D73E6C1B1208C9D500F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEBE11FF1540008AF43B /* Restaurant.m */;
+		name = "Restaurant.m: 72";
+		rLen = 0;
+		rLoc = 1298;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 1473;
+	};
+	D73E6C2A1208CAAB00F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEC111FF1540008AF43B /* RootViewController.m */;
+		name = "RootViewController.m: 28";
+		rLen = 0;
+		rLoc = 532;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 141;
+	};
+	D73E6C341208CB6600F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 372;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	D73E6C411208CBCC00F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FF1211FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.m */;
+		name = "OakGovChallenge_FoodViolationsAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 502;
+		rType = 0;
+		vrLen = 1082;
+		vrLoc = 86;
+	};
+	D73E6C4C1208CC5300F85035 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEBA11FF1540008AF43B /* FoodViolationsMapViewController.m */;
+		name = "FoodViolationsMapViewController.m: 209";
+		rLen = 0;
+		rLoc = 6420;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 6298;
+	};
+	D758FEB711FF1540008AF43B /* FoodViolationsAboutRIIS.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 515}}";
+			sepNavSelRange = "{256, 0}";
+			sepNavVisRange = "{0, 501}";
+		};
+	};
+	D758FEB811FF1540008AF43B /* FoodViolationsAboutRIIS.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1027}}";
+			sepNavSelRange = "{1484, 0}";
+			sepNavVisRange = "{1119, 833}";
+		};
+	};
+	D758FEB911FF1540008AF43B /* FoodViolationsMapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 509}}";
+			sepNavSelRange = "{690, 0}";
+			sepNavVisRange = "{0, 984}";
+			sepNavWindowFrame = "{{15, 83}, {1082, 690}}";
+		};
+	};
+	D758FEBA11FF1540008AF43B /* FoodViolationsMapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 3328}}";
+			sepNavSelRange = "{6420, 0}";
+			sepNavVisRange = "{6298, 804}";
+			sepNavWindowFrame = "{{15, 83}, {1082, 690}}";
+		};
+	};
+	D758FEBB11FF1540008AF43B /* FoodViolationTabs.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 538}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 438}";
+		};
+	};
+	D758FEBC11FF1540008AF43B /* FoodViolationTabs.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 585}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{46, 777}";
+		};
+	};
+	D758FEBD11FF1540008AF43B /* Restaurant.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1279, 689}}";
+			sepNavSelRange = "{647, 0}";
+			sepNavVisRange = "{199, 1151}";
+		};
+	};
+	D758FEBE11FF1540008AF43B /* Restaurant.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1272, 1703}}";
+			sepNavSelRange = "{1298, 0}";
+			sepNavVisRange = "{1473, 689}";
+			sepNavWindowFrame = "{{15, 83}, {1082, 690}}";
+		};
+	};
+	D758FEBF11FF1540008AF43B /* RestaurantConstants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 512}}";
+			sepNavSelRange = "{264, 0}";
+			sepNavVisRange = "{0, 490}";
+		};
+	};
+	D758FEC011FF1540008AF43B /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 538}}";
+			sepNavSelRange = "{228, 0}";
+			sepNavVisRange = "{0, 692}";
+		};
+	};
+	D758FEC111FF1540008AF43B /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 3471}}";
+			sepNavSelRange = "{532, 0}";
+			sepNavVisRange = "{141, 798}";
+		};
+	};
+	D758FEC211FF1540008AF43B /* ViolationDetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 715}}";
+			sepNavSelRange = "{1421, 0}";
+			sepNavVisRange = "{218, 1317}";
+		};
+	};
+	D758FEC311FF1540008AF43B /* ViolationDetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 3237}}";
+			sepNavSelRange = "{5969, 0}";
+			sepNavVisRange = "{5407, 1105}";
+			sepNavWindowFrame = "{{61, 41}, {1082, 690}}";
+		};
+	};
+	D758FED111FF1612008AF43B /* RestaurantsDAO.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 585}}";
+			sepNavSelRange = "{213, 0}";
+			sepNavVisRange = "{0, 1169}";
+		};
+	};
+	D758FED211FF1612008AF43B /* RestaurantsDAO.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1177, 2704}}";
+			sepNavSelRange = "{4949, 0}";
+			sepNavVisRange = "{4528, 420}";
+			sepNavWindowFrame = "{{15, 83}, {1082, 690}}";
+		};
+	};
+	D758FEE711FF1685008AF43B /* OakGovChallenge_FoodViolations_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {936, 535}}";
+			sepNavSelRange = "{253, 0}";
+			sepNavVisRange = "{0, 256}";
+		};
+	};
+	D758FEFA11FF172A008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = OakGovChallenge_FoodViolationsAppDelegate.m;
+		path = /Users/godfreynolan/Documents/OakGovChallenge_FoodViolations/Classes/OakGovChallenge_FoodViolationsAppDelegate.m;
+		sourceTree = "<absolute>";
+	};
+	D758FEFE11FF172A008AF43B /* RestaurantsDAO.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = RestaurantsDAO.h;
+		path = /Users/godfreynolan/Documents/OakGovChallenge_FoodViolations/Data/RestaurantsDAO.h;
+		sourceTree = "<absolute>";
+	};
+	D758FF1111FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 515}}";
+			sepNavSelRange = "{303, 0}";
+			sepNavVisRange = "{0, 534}";
+		};
+	};
+	D758FF1211FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 689}}";
+			sepNavSelRange = "{502, 0}";
+			sepNavVisRange = "{86, 1082}";
+		};
+	};
+	D758FF6D11FF1C4F008AF43B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEFA11FF172A008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.m */;
+		name = "OakGovChallenge_FoodViolationsAppDelegate.m: 8";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	D77A81521209E0FF00BC8C82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEFE11FF172A008AF43B /* RestaurantsDAO.h */;
+		name = "RestaurantsDAO.h: 26";
+		rLen = 0;
+		rLoc = 580;
+		rType = 0;
+		vrLen = 1269;
+		vrLoc = 24;
+	};
+	D77A81591209E2AB00BC8C82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FED211FF1612008AF43B /* RestaurantsDAO.m */;
+		name = "RestaurantsDAO.m: 17";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 768;
+		vrLoc = 0;
+	};
+	D77A81761209E7FB00BC8C82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEB911FF1540008AF43B /* FoodViolationsMapViewController.h */;
+		name = "FoodViolationsMapViewController.h: 26";
+		rLen = 0;
+		rLoc = 690;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 0;
+	};
+	D77A81771209E7FB00BC8C82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEB811FF1540008AF43B /* FoodViolationsAboutRIIS.m */;
+		name = "FoodViolationsAboutRIIS.m: 53";
+		rLen = 0;
+		rLoc = 1484;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 1119;
+	};
+	D77A81781209E7FB00BC8C82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEC211FF1540008AF43B /* ViolationDetailViewController.h */;
+		name = "ViolationDetailViewController.h: 47";
+		rLen = 0;
+		rLoc = 1421;
+		rType = 0;
+		vrLen = 1317;
+		vrLoc = 218;
+	};
+	D77A819A1209E94A00BC8C82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEC311FF1540008AF43B /* ViolationDetailViewController.m */;
+		name = "ViolationDetailViewController.m: 203";
+		rLen = 0;
+		rLoc = 5969;
+		rType = 0;
+		vrLen = 1129;
+		vrLoc = 5407;
+	};
+	D786E46312030F9200B078B3 /* logo_oakgov.gif */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 62}, {1082, 690}}";
+		};
+	};
+	D786E52C120380D100B078B3 /* CustomCellViolation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 515}}";
+			sepNavSelRange = "{321, 0}";
+			sepNavVisRange = "{0, 500}";
+		};
+	};
+	D786E52D120380D100B078B3 /* CustomCellViolation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 520}}";
+			sepNavSelRange = "{295, 0}";
+			sepNavVisRange = "{0, 743}";
+		};
+	};
+	D7A6466F1200E3FA00B0B131 /* Violation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 512}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{0, 554}";
+		};
+	};
+	D7A646701200E3FA00B0B131 /* Violation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 624}}";
+			sepNavSelRange = "{693, 0}";
+			sepNavVisRange = "{148, 596}";
+		};
+	};
+	D7A957751209EE6300E06C7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEC311FF1540008AF43B /* ViolationDetailViewController.m */;
+		name = "ViolationDetailViewController.m: 203";
+		rLen = 0;
+		rLoc = 5969;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 5407;
+	};
+	D7BA3B2B120884BB00A8A94F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = D7C9A56C12077C4C00912D8B /* RestaurantArray.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/godfreynolan/Documents/OakGovChallenge_FoodViolations/Data/RestaurantArray.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D7BA3B2D120884BB00A8A94F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FF1111FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.h */;
+		name = "OakGovChallenge_FoodViolationsAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 534;
+		vrLoc = 0;
+	};
+	D7BA3B2E120884BB00A8A94F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7C38B651207566A0058FE02 /* NSDate+Helper.m */;
+		name = "NSDate+Helper.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1873;
+		vrLoc = 0;
+	};
+	D7BA3B2F120884BB00A8A94F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7C38B641207566A0058FE02 /* NSDate+Helper.h */;
+		name = "NSDate+Helper.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1837;
+		vrLoc = 0;
+	};
+	D7BA3B5612088AB900A8A94F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D786E46312030F9200B078B3 /* logo_oakgov.gif */;
+	};
+	D7BA3B5712088AB900A8A94F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEB711FF1540008AF43B /* FoodViolationsAboutRIIS.h */;
+		name = "FoodViolationsAboutRIIS.h: 13";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	D7BA3B5B12088AB900A8A94F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEBB11FF1540008AF43B /* FoodViolationTabs.h */;
+		name = "FoodViolationTabs.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 0;
+	};
+	D7BA3B5C12088AB900A8A94F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEBC11FF1540008AF43B /* FoodViolationTabs.m */;
+		name = "FoodViolationTabs.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 777;
+		vrLoc = 46;
+	};
+	D7BA3B5E12088AB900A8A94F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D758FEC011FF1540008AF43B /* RootViewController.h */;
+		name = "RootViewController.h: 13";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 692;
+		vrLoc = 0;
+	};
+	D7BA3B6D12088BF100A8A94F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D786E52C120380D100B078B3 /* CustomCellViolation.h */;
+		name = "CustomCellViolation.h: 16";
+		rLen = 0;
+		rLoc = 321;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 0;
+	};
+	D7BA3B6E12088BF100A8A94F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D786E52D120380D100B078B3 /* CustomCellViolation.m */;
+		name = "CustomCellViolation.m: 18";
+		rLen = 0;
+		rLoc = 295;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 0;
+	};
+	D7BA3B831208904C00A8A94F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = D758FEE811FF1685008AF43B /* OakGovChallenge_FoodViolations-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/godfreynolan/Documents/OakGovChallenge_FoodViolations/OakGovChallenge_FoodViolations-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D7C38B641207566A0058FE02 /* NSDate+Helper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 754}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1837}";
+		};
+	};
+	D7C38B651207566A0058FE02 /* NSDate+Helper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {849, 3185}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1873}";
+		};
+	};
+	D7C622F711FE18E200F6F4B6 /* OakGovChallenge_FoodViolations */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OakGovChallenge_FoodViolations;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fctrl = 1;
+			$fioff = 1;
+			$fiseg = 1;
+			$fooff = 1;
+			$fop = 1;
+			$foseg = 1;
+			$fs = 1;
+			$fstat = 1;
+			$ftag = 1;
+			$gs = 1;
+			$mxcsr = 1;
+			$ss = 1;
+		};
+	};
+	D7C6230A11FE190000F6F4B6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D7C6230B11FE190000F6F4B6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

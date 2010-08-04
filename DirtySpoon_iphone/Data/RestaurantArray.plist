@@ -1,0 +1,2206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Ali Baba Gyros</string>
+		<key>address</key>
+		<string>3338 Coolidge Highway, Berkley, MI 48072</string>
+		<key>phone</key>
+		<string>(248) 509-3190</string>
+		<key>latitude</key>
+		<string>42.5026</string>
+		<key>longitude</key>
+		<string>-83.1838</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-05-30T00:00:00Z</date>
+				<key>Description</key>
+				<string>No light shield at light over handsink</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-05-30T00:00:00Z</date>
+				<key>Description</key>
+				<string>Buckets of sunflower seeds stored on floor</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>Bucket with packages of sunflower seeds was stored on the floor.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>No hand wash signs up in the men&apos;s restroom.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>A) Reach-in freezer gaskets observed soiled B) Reach-in cooler gaskets observed soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-05-30T00:00:00Z</date>
+				<key>Description</key>
+				<string>Paper towel missing at handsink towel dispenser</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BW-3</string>
+		<key>address</key>
+		<string>1873 East Big Beaver, Troy, MI 48083</string>
+		<key>phone</key>
+		<string>(248) 303-3899</string>
+		<key>latitude</key>
+		<real>42.5636</real>
+		<key>longitude</key>
+		<real>-83.1108</real>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-01-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Tiles in front corners of upstairs walk-in-cooler noted in disrepair.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>No self closure on employee toilet room door in basement.  Water spillage on floor.  Fixtures soiled, walls worn surfaces.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-01-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Spray arm by dish machine found hanging at sink flood rim level.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-07-16T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed wood on wall by basement stairs and in hallway</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-07-16T00:00:00Z</date>
+				<key>Description</key>
+				<string>a. Observed top shelf on wire storage rack in basement by stairs noted with wooden surface b. Observed towels used below spices/sauces on rolling rack at cookline</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-07-16T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed bag of onions stored in floor in hallway by back door</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-07-16T00:00:00Z</date>
+				<key>Description</key>
+				<string>La Rosa glass door sliding cooler holding with an ambient air temperature of 53F</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Soiled upper interior of microwave oven to right of cookline by mixer</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Stainless steel food pot in use as a wiping cloth bucket on the cook line with no label.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Poor light level over beverage area.  Non-working bulb inside Victory 2-door reach-in.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>No approved backflow preventer observed on two separate automatic filled triple tea urns in both beverage areas.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>NO shield on light bulb at left end of vent hood.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Equipment not kept in good repair: 1)  REPEAT VIOLATION    La Rosa glass front cooler holding mango tarts and various milk mixtures at 44.3 F ambient temperature.   2)   Duct taped swinging door surface 3)  Walk-in cooler door exterior worn and damaged</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Baffle filters not aligned to fit properly to capture greasy cooking vapors, a space noted between them at left end.  Three areas within the bank where the baffles are not flush in the grid.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Grease build up noted in areas running below baffle filters within the vent hood.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Neither temperature gauge on top of high temp dishwasher are registering the wash or final rinse temps accurately.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>No pressure gauge observed for high temp dishwasher  to measure 15-25 psi in final rinse stage.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Nonfood contact surfaces soiled: 1) drawers holding drink lids and chopsticks 2) cart in corner of beverage area 3) shelves in wait station areas 4) interior of small freezer in corner of kitchen 5) black spot on ceiling tile above double door Victor</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Utensils observed wedged with blade not visible: 1)  inside case holding mango tarts 2) on wall in corner of prep next to mop sink</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Fly paper observed over beverage station and clean plates</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Mop sink faucet dripping</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>1)  Soiled stiff cloth towels observed under long cutting board on server side of cookline. 2)  Underside of bar pass through over the ice bin is exposed, moldy wood.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>Potentially hazardous/time and temperature control for safety (TCS) food found held in toploader on cookline at 46-47 F:  cooked cubed pork and fried pieces, ccoked almond chicken, minced cooked chicken.   The 11:10 a.m. recorded ambient temperature was o</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>About 4-5 oversized woks stored in 2 areas of basement said to be used occasionally for large parties.  Cracked plastic tubs stored in same area, not of food grade quality. Soiled and broken utensils stored in bucket.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>Cooler at end of cookline holding trays of fried product and diced pork and shrimp reading 47 F at 1:45 p.m   Significant amount of water collecting on floor below the toploader at the opposite end, holding noodles and vegetables at 43 F.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>1)  Sprayer end attached to mopsink hose connected to faucet observed.  Only an inline atmospheric vacuum breaker is in place. It is not rated to withstand constant pressure from the attached hose end sprayer. 2)  Obsolete type of hexagon shaped backflow</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>Soiled nonfood contact surfaces observed:  1) vent cover in basement walk-in cooler 2) broken off rice cooker handle allowing debris to collect near opener. 3) stored, but unused, mold covered tub lid next to duct taped bin (by lockers) proximate to co</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>High temperature dishmachine noted with final rinse pressure too high, 28-30 psi registered on gauge.  Owner stated area construction has affected his building water pressure causing it to read higher than usual, 15-25 psi during final rinse is acceptable</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-01-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Exterior of bulk food containers (white plastic tubs) noted soiled.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dish</string>
+		<key>address</key>
+		<string>151 Martin St., Birmingham, MI 48009</string>
+		<key>phone</key>
+		<string>(248) 874-2349</string>
+		<key>latitude</key>
+		<string>42.5459</string>
+		<key>longitude</key>
+		<string>-83.2155</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Paper towel rolls stored in employee restroom.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Lights(X3) not functioning in exhaust hood.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>1. Racks in wallk-in cooler not smooth and easily cleanable (i.e. protective coating is peeling off). 2. Wood drawer in customer seating area (used for food-related storage) is not smooth  and easily cleanable.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Minor soil accumulation observed on rear wall of kitchen by lightswitch.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>1. Clean plates and bowls stored next to soup steamline in kitchen (observed with soiling on non-food contact portion).  2. Single-service pie lids not inverted during storage in kitchen.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>1. Handles of spatulas(x2) and knife(x1)in kitchen not easily cleanable (i.e. melted and pitted). 2. Plastic coating on walk-in cooler light globe is peeling. </string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-04-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>Nonfood contact surfaces in poor condition: two plastic square lids were cracked holding cannoli mixture and fontanella cheese in refrigeration units in the kitchen.  Shelving worn on reach in racks in salad toploader.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-09-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Reach-in racks for salad in poor repair.  Lids for various dressings and toppings seen cracked.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-09-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Kitchen wall in dish cleaning area seen with numerous holes and piece of shelf support, no longer needed. Hole in ceiling tile in toilet room.  Handsink is attached to painted particle board with a gap at wall.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-04-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>No backflow protection that meets current plumbing code was observed on two (2) automatic filled Curtis model coffee makers under Sara Lee brand located in two different dining areas.  Owner stated the cappuchino machine is filled manually with water.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-04-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>No backflow protection that meets current plumbing code was observed on beverage system carbonator in bar or in kitchen arrangement. The one behind the speed rack in the bar has a vented hexagon shaped device that is no longer acceptable.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-04-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>Hole in ceiling tile in toilet room.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-04-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>Some solid waste (pallet) observed on ground inside shared dumpster enclosure.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>No interior thermometer in walk-in cooler.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Doozy&apos;s</string>
+		<key>address</key>
+		<string>1827 North Squirrel Rd, Auburn Hills, MI 48326</string>
+		<key>phone</key>
+		<string>(248) 678-1247</string>
+		<key>latitude</key>
+		<string>42.6667</string>
+		<key>longitude</key>
+		<string>-83.2201</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-16T00:00:00Z</date>
+				<key>Description</key>
+				<string>Ceiling observed with soil accumulation in walk-in cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-06-30T00:00:00Z</date>
+				<key>Description</key>
+				<string>Drink (no Straw) and chips ahoy are stored on the lower sheelf with food items--prep table.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-16T00:00:00Z</date>
+				<key>Description</key>
+				<string>No chemical test strips available or provided at time of inspection.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-16T00:00:00Z</date>
+				<key>Description</key>
+				<string>Pizza boxes stored in outside storage shed with unfinished walls and ceiling.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-16T00:00:00Z</date>
+				<key>Description</key>
+				<string>Unshielded lightbulb observed in walk-in cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>1.) Facility using too many days for discard dates-creamy cheese dip, house ranch given 10  days for discard.  2.) Sliced deli meats and feta cheese held over 24 hours observed with no discard date.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>1.) Peeling paint observed in back storage room above clean wiping cloths, aprons, etc. 2.) Wall observed in disrepair behind three compartment sink.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Pizza boxes stored in outside storage shed with unfinished walls and ceiling.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>No chemical test strips present.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>1.) Gaskets observed soiled in pizza toploader. 2.) Bottom of stand-up freezers observed soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Soiled mops observed stored in mop bucket.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>1.) Pizza boxes observed stored on floor in back storage room. 2.) Clean aprons, wiping cloths, misc. equipment observed stored in close proximity to soiled furnace/unprotected area.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>No handsoap observed in employee restroom.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Twist cap employee personal beverages (X2), and personal food observed stored on shelf over back prep table.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Numerous soiled wiping cloths observed throughout kitchen area. No sanitizer bucket present.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>1.) Bottom reach-in of pizza toploader observed with ambient air temperature of 46.7F. 2.) Condenser observed leaking in walk-in cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>1.) No light shield/coated bulb observed in white stand-up freezer. 2.) No light shields observed in back storage room where food contact equipment is stored.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Employee personal items (purse, keys, phone, etc.) observed stored on shelf over back prep table.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>No thermometer present in pizza toploader/bottom reach-in.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>There is a chemical spray bottle not labeled in back area.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The walkbins stacked on the floor in the walk-in cooler. The olive bin is stored on the floor in the walk-in cooler.-in cooler has food. Bin of white powder and oil in back area are not covered.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The filters and hoods are soiled at the oven. The oven conveyor is soiled. There are several flat pans with very soiled bottoms. The door and the gasket on the walk-in cooler is soiled. The shelving in the walk-in cooler and at the dry storage is soil</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The outside shed is used for storage of pizza boxes and bottom sheeets for pizza.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The fixture at the 3 comp sink has no hot water handle</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Light shields are missing on the lights in the back prep area. An end cap is missing from the light shield in the reach-in cooler. </string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The ceiling tiles at the oven are falling apart. The walls at the mixer are worn and not easily cleanable.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The bin of small cheese dip is not dated in the prep cooler. The feta cheese opened in the walk-in cooler is not dated for discard. Sliced ham and feta cheese in the pizza prep cooler is not dated for discard. The large bin of cheese dip in the walk-in</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Personal bottled water is stored with facility foods in the pizza prep cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The can opener is very soiled. The mixer underneath at attachment area is soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The large bins in front of corn meal (?) and flour (?) are not labeled as to content. Shakers at front prep area are not labeled. Bin ow white powder and oil (?) bin in back prep area are not labeled as to content. Bin in dry storage shelf of white pow</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The ceiling is not cleaned at the front area of kitchen. The ceiling tiles are soiled at sides of oven. Floors are soiled in the walk-in cooler. Walls are soiled at the mixer.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Sterlite containers are being used for food contact throughout the facility.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-06-30T00:00:00Z</date>
+				<key>Description</key>
+				<string>There are no dates of discard on the feta scheese, or cheese dip stored in the walk-in cooler. Cooked pasta is not dated for discard in the cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-16T00:00:00Z</date>
+				<key>Description</key>
+				<string>Gaskets observed soiled in reach-in cooler under pizza prep toploader.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Imperial Palace Express</string>
+		<key>address</key>
+		<string>2840 Fischer Ave, Commerce Township, MI 48390</string>
+		<key>phone</key>
+		<string>(248) 361-5528</string>
+		<key>latitude</key>
+		<string>42.5794</string>
+		<key>longitude</key>
+		<string>-83.4878</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Inadequate consumer advisory observed on menus with raw or undercooked items missing disclosure statement.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Food staff observed handling salad cheese with bare hands.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The following non-food contact areas in need of detail cleaning: 1) reachin cooler gaskets 2) stainless reachin cooler fanguard in grill 3) splash area above steam table along cookline 4) overhead lightshields and return air vents 5) grill handsink soap a</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The following items in need of maintenance or repair: 1) gaskets on beer walkin cooler door 2) main walkin cooler door 3) ice accumulation noted in grill reachin freezer 4) toploader at grill cookline maintaining ambient air at 43 F.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Spray arm at dish area sink resting below flood rim of basin.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>1) Wood spoons noted in grill storage drawer 2) exposed wood noted above salad toploader on shelf.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Interior of ice machine noted with mineral deposit.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Exposed silverware noted at preset tables.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The following plumbing items noted leaking and in need of repair: 1) unisex restroom faucet 2) dish area sink faucet and 3) 3-compartment sink faucet.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Unable to locate chlorine test strips.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Unisex restroom/womens restrooms in need of covered receptacle</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Inadequate air gap observed with bar ice bin drain line.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The following in need of repair: 1) base cove molding missing in areas within beer walkin cooler 2) ceiling within beer walkin cooler in disrepair.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Unlabeled chemical spray bottle noted in dish wash area.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Four lights above grill cookline not functioning.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Light located above bar ice bin (below glass storage shelf) not shielded.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Grill handsink missing handwash signage.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Wait staff noted preparing salad without hair restraints.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>1) Salad toppings not covered (outside of toploader) 2) single-service lids at grill not inverted.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-29T00:00:00Z</date>
+				<key>Description</key>
+				<string>Cloth towel observed beneath cutting board in grill.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-29T00:00:00Z</date>
+				<key>Description</key>
+				<string>One of the two bimetal stem thermometers in grill reading ambient air 10 F different from sanitarians.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-29T00:00:00Z</date>
+				<key>Description</key>
+				<string>Fanguard within two-door reachin cooler in grill soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-29T00:00:00Z</date>
+				<key>Description</key>
+				<string>Cove molding needed within beer walkin cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-29T00:00:00Z</date>
+				<key>Description</key>
+				<string>Faucet at 3-compartment sink leaking water.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-29T00:00:00Z</date>
+				<key>Description</key>
+				<string>Insect control device observed in rear prep area stored above chest freezer and microwave.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-29T00:00:00Z</date>
+				<key>Description</key>
+				<string>Open can of tomato paste observed in walkin cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>The following non-food contact surfaces observed soiled: 1) fanguard in True 2-door reachin cooler soiled 2) gaskets on cookline reachin freezer soiled 3) beer reachin cooler gaskets.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Base cove molding missing from areas in beer walkin cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Faucet at 3-compartment sink leaking water while in use.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Insect control device observed stored above microwave/chest freezer proximate to rear exit door.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Open can of pineapple juice observed in bar reachin cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-05-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Unable to locate appropriate backflow prevention device on Curtis coffee machine.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-05-08T00:00:00Z</date>
+				<key>Description</key>
+				<string>Inadequate air gap observed with cookline cluster, located beneath west-side grill handsink.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lazarri&apos;s</string>
+		<key>address</key>
+		<string>23600 Liberty St., Farmington, MI 48336</string>
+		<key>phone</key>
+		<string>(248) 972-3226</string>
+		<key>latitude</key>
+		<string>42.4516</string>
+		<key>longitude</key>
+		<string>-83.3287</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-08-20T00:00:00Z</date>
+				<key>Description</key>
+				<string>A) Raw ground beef over raw fish in cookline cooler B) Raw shell eggs stored next to juice in walk-in cooler</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-07-31T00:00:00Z</date>
+				<key>Description</key>
+				<string>Back prep reach-in cooler at 44-45F, sauces/dressings.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>Improper date marking observed:  A) Dessert date marked with prep date only, 12-12. B) Feta cheese date marked with open date only, 12-10. C) Cooked, portioned cheesy potatoes dated with prep date only.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>Bags of grains for beer at brewery on floor.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>A) Fan guard on walk-in cooler motor soiled B) Mill/grinder at brewery soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>Several squirt bottles at dessert station not labeled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>Wood 2x4 used at mill/grinder at brewery.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>Light burnt out at vent hood.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>A) No air gap on drain at 2 comp. sink used for prep B) No air gap at dipper-well drain line C) No air gap at ice machine drain line.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>Door gasket at salad chute torn.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>A) Table top slicer soiled B) Underside area near mixing arm soiled at floor mixer.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>A) Wiping cloth buckets stored on prep surfaces B) Propane canister next to food on shelf under prep table.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-01-30T00:00:00Z</date>
+				<key>Description</key>
+				<string>2 door cooler and salad chute gaskets torn.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-12-14T00:00:00Z</date>
+				<key>Description</key>
+				<string>Several instances of cross contamination observed: A) Raw shell eggs stored next to cartons of orange juice in walk-in. B) Several boxes of unwashed produce stored next to and above prepared/washed produce in walk-in. C) Unwashed strawberries over washed </string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-07-10T00:00:00Z</date>
+				<key>Description</key>
+				<string>A) Cooked rice on ice bath at 59F at cookline B) Both ends of cookline reach-in coolers at 44F, burger and fish C) Back prep reach-in cooler at 44F, creamer  C) Walk-in cooler with air temp at 43F, desserts and sauces and bacon at 44F</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-07-10T00:00:00Z</date>
+				<key>Description</key>
+				<string>No paper towel at bar handsink.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-20T00:00:00Z</date>
+				<key>Description</key>
+				<string>Employee washing dishes not wearing head covering.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lazlo&apos;s Brewery &amp; Grill</string>
+		<key>address</key>
+		<string>26815 Scotia Rd., Huntington Woods, MI 48070</string>
+		<key>phone</key>
+		<string>(248) 941-2880</string>
+		<key>latitude</key>
+		<string>42.4885</string>
+		<key>longitude</key>
+		<string>-83.1736</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-09-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>Ice machine interior observed with mold-like substances.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-09-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>Obstructed handsink at the back room.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-09-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>No light bulb shield above the 3-compartment sink.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>No light shield provided at ceiling lights over singles service items and dry food storage shelves.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>Unlabeled sugar food bin in kitchen.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>The interior of the ice machine noted with mold-like growth.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>The dumpster lid noted ajar.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-21T00:00:00Z</date>
+				<key>Description</key>
+				<string>Floor noted soiled around the oven/3-compartment sink area.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-03-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>(1) Floors soiled under heavy equipment (2)  Walk-in-freezer floor soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-03-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Visor worn for hair restraint.  Unapproved hair restraint.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-03-06T00:00:00Z</date>
+				<key>Description</key>
+				<string>Bulk food bin bucket lids soiled.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Spaghetti Works</string>
+		<key>address</key>
+		<string>49095 Pontiac Trail, Wixom, MI 48393</string>
+		<key>phone</key>
+		<string>(248) 747-9629</string>
+		<key>latitude</key>
+		<string>42.5244</string>
+		<key>longitude</key>
+		<string>-83.5341</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-28T00:00:00Z</date>
+				<key>Description</key>
+				<string>The doors for the hot holding cabinet are in the process of replacement.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Oso Burrito</string>
+		<key>address</key>
+		<string>211 William St., Royal Oak, MI 48067</string>
+		<key>phone</key>
+		<string>(248) 820-0469</string>
+		<key>latitude</key>
+		<string>42.4923</string>
+		<key>longitude</key>
+		<string>-83.1328</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>The raw eggs are stored beside the box of cabbages.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>There is a large bin of spice labeled under slice shelf. There are different crumb? bins not labeled on prep cooler near oven.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Missing and broken ceiling tiles throughout kitchen. </string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>a)  gaskets on reach in have build up (black mold like) b) interior of microwave has soil build up. </string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>The condensor line from the walk-in cooler is not air gapped at utility sink.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Vent filters have heavy build up of dirt and debris</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>No self closure on bathroom door.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>NOted heavy soil build up on doors, walls and floors of back kitchen area.  Noted very heavy soil build up under cookline equipment.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Noted soil build up on the following non-food contact surfaces: a) interior of microwave b) handles of equipment throughout facility c) interior of reach in cooler on line</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-05-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Chill paddles stored in reach in freezer, unprotected from freezer debris.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>Open cup of coffee is stored on the shelf over the prep cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Walls, floors have soil build up. </string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>wall under 3 compartment sink is coming apart. </string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-04-17T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed open water bottles on prep table, and in stand-up cooler by door.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-04-17T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed turkey in top loader at 48f.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>There is utensils stored in the splash zone of the 3 comp sink.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-08-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Filter vents throughout facility have dust and debris build up. </string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Red Onion Grill</string>
+		<key>address</key>
+		<string>45175 West Ten Mile Rd., Novi, MI 48336</string>
+		<key>phone</key>
+		<string>(248) 271-9805</string>
+		<key>latitude</key>
+		<string>42.4661</string>
+		<key>longitude</key>
+		<string>-83.4926</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-28T00:00:00Z</date>
+				<key>Description</key>
+				<string>The kitchen was observed being used to store dining area equipment.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-28T00:00:00Z</date>
+				<key>Description</key>
+				<string>The reach in prep cooler was observed with a condensate leak.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-28T00:00:00Z</date>
+				<key>Description</key>
+				<string>The reach in prep cooler was observed missing a thermometer.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-28T00:00:00Z</date>
+				<key>Description</key>
+				<string>Employee clothing was found stored on equipment in the kitchen..</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-11-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>spray cleaner bottles were observed hanging from the bar 3 compartment sink</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-11-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>the can opener blade was soiled</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-11-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>spray cleaner bottles were observed hanging from the bar 3 compartment sink</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-11-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>tzatziki sauce was observed missing a date label</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-11-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>the mop was stored in the mop bucket</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-11-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>maintenance equipment (ladder) was observed stored in the kitchen.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-11-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>the kitchen floor was observed worn and chipping.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>observed kitchen cluttered with items not related to the food service operation(paint,empty bottles, maintainance equipment and unused equipment.)</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Maintainance equipment was found stored in the food prep area.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed frozen food uncovered in the reach in freezer.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-04-05T00:00:00Z</date>
+				<key>Description</key>
+				<string>The dishwasher final rinse cycle registered 0 ppm chlorine.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-11-03T00:00:00Z</date>
+				<key>Description</key>
+				<string>The bar ice storage bin drain line was observed submersed in the floor drain.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-03T00:00:00Z</date>
+				<key>Description</key>
+				<string>Soiled rags were stored in an open container in the kitchen.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-03T00:00:00Z</date>
+				<key>Description</key>
+				<string>Tools and general clutter of misc. was observed in the kitchen.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-03T00:00:00Z</date>
+				<key>Description</key>
+				<string>The interior of the kitchen prep cooler was observed soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-11-03T00:00:00Z</date>
+				<key>Description</key>
+				<string>The dish washer final rinse registered 0 ppm chlorine.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Samurai Sam&apos;s</string>
+		<key>address</key>
+		<string>31555 Eleven Mile Rd., Farmington Hills, MI 48336</string>
+		<key>phone</key>
+		<string>(248) 274-2108</string>
+		<key>latitude</key>
+		<string>42.4847</string>
+		<key>longitude</key>
+		<string>-83.3598</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>Interior of ovens soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>(1) Gaskets soiled on multiple coolers (2) Milk dispensor unit soiled (3) Radio soiled (3) Sides of fryer soiled</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>Floors soiled under heavy equipment at the cookline.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>Atmosheric vacuum breaker at the mop sink missing a cap.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-10-23T00:00:00Z</date>
+				<key>Description</key>
+				<string>Dishmachine registered 0 parts per million chlorine.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-23T00:00:00Z</date>
+				<key>Description</key>
+				<string>Souffle cups used to dispense raisens.  No handles.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-04T00:00:00Z</date>
+				<key>Description</key>
+				<string>Hot box unit hot holding baked beans holding an ambient air temperature of less than 140°F.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-23T00:00:00Z</date>
+				<key>Description</key>
+				<string>No internal thermometer inside the top loader adjacent to the grill.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-23T00:00:00Z</date>
+				<key>Description</key>
+				<string>Baked beans hot box holding at less than 140°F.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-23T00:00:00Z</date>
+				<key>Description</key>
+				<string>(1) Sides of fryer observed with grease build-up. (2) Milk dispensing unit soiled</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-04-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>Milk dispensing unit soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-23T00:00:00Z</date>
+				<key>Description</key>
+				<string>Floor soiled under heavy equipment at the cookline.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-23T00:00:00Z</date>
+				<key>Description</key>
+				<string>Handsink (front) used as a dumpsink.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Taste From Home</string>
+		<key>address</key>
+		<string>215 West Main St., Northville, MI 48167</string>
+		<key>phone</key>
+		<string>(248) 257-2521</string>
+		<key>latitude</key>
+		<string>42.4303</string>
+		<key>longitude</key>
+		<string>-83.4854</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Covered trash not available in women&apos;s restroom.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Current food service license has not yet been applied for with this Division</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Probe thermometer scaled 0-220 F not available at time of visit.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Menu does not feature a proper disclosure for raw, undercooked items.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Shelving, heat lamps, reach-in freezer, steam table not fully installed at time of inspection.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Mop rack not installed at mop sink.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-03-07T00:00:00Z</date>
+				<key>Description</key>
+				<string>Covered trash not available in women&apos;s restroom.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Thai Garden</string>
+		<key>address</key>
+		<string>719 East Nine Mile Rd., Ferndale, MI 48220</string>
+		<key>phone</key>
+		<string>(248) 961-2463</string>
+		<key>latitude</key>
+		<string>42.4609</string>
+		<key>longitude</key>
+		<string>-83.1247</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>The cutting board was observed soiled and with grooves.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>Foil was used to repair the panel inside the 2-door reach-in.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2006-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>The following non-food contact surfaces were observed soiled: A) The gaskets of the 2 door reach-in cooler. B)The gasket of the freezer. C) The bottom of the inside of the 2-door reach-in cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>The following items were observed without discard dates in the reach-in-cooler: a) The yogurt sauce  b) The chicken Biryani c)Gallon of Milk D)Cooked Rice  E)Lentil Soup F)Cooked Spinach-Plak Paneer G)Peas in sauce-mutter paneer H) Chutnis</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>Half and Half at 52F sitting on the counter.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2006-11-15T00:00:00Z</date>
+				<key>Description</key>
+				<string>Food employee was observed working with raw meat while wearing gloves and not washing hands after removing the gloves.   Food employee was also observed touching his face and mouth without washing his hands.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed thermometer missing in stand-up cooler on cook line.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed cook not wearing hair restraint.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed stand-up freezer in back corner by soda machine with excessive soil build-up in bottom.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed soda machine not operating and in disrepair.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>1). Obseerved single service forks and spoons stored in dispencer haphazardly. 2). Observed carry-out containers on top of dry storage rack with food contact surface exposed.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed wiping cloth under cutting board.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed three working containers of spices not labeled with common name.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>1). Observed prep sink drain line below flod plain of drain.  2). Observed drain lines of three compartment sink below flod plain of drain.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>No test strips were available for sanitizer upon request. (Chlorine)</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>1). Observed paper towels missing at handsink by drety storage area. 2). Observed papertowels missing in mens restroom.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed electrical cover missing at socket by handsink.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed mop stored in mop bucket in back room.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed potatos, and onions on floor by back room entrance.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-11-13T00:00:00Z</date>
+				<key>Description</key>
+				<string>Observed front door not self closing.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Green Gateau</string>
+		<key>address</key>
+		<string>111 East Nine Mile Rd., Hazel Park, MI 48220</string>
+		<key>phone</key>
+		<string>(248) 358-9239</string>
+		<key>latitude</key>
+		<string>42.4614</string>
+		<key>longitude</key>
+		<string>-83.1036</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-19T00:00:00Z</date>
+				<key>Description</key>
+				<string>Faucet at 3-compartment sink leaking water at time of inspection.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-04-19T00:00:00Z</date>
+				<key>Description</key>
+				<string>The following items/areas in need of detail cleaning: 1) fanguard within pizza top loader 2) fanguard within walkin cooler 3) wire shelving proximate to pizza top loader with pan storage and 4) return air vents in lobby.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-06-23T00:00:00Z</date>
+				<key>Description</key>
+				<string>Exhaust hood filters above fryer soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-04-10T00:00:00Z</date>
+				<key>Description</key>
+				<string>The overhead spray rinse at the 3-compartment sink is extended below the flood rim.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-04-10T00:00:00Z</date>
+				<key>Description</key>
+				<string>The light in the walk-in cooler is dim.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Oven</string>
+		<key>address</key>
+		<string>26000 Evergreen Rd., Southfield, MI 48076</string>
+		<key>phone</key>
+		<string>(248) 358-2344</string>
+		<key>latitude</key>
+		<string>42.4829</string>
+		<key>longitude</key>
+		<string>-83.2396</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-07-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>Food preparation employees (X2) without hair restraints.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-06-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>Soil accumulation observed in reach in coolers (X4).</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-07-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>Single-service silverware not oriented in same direction at customer self-service area.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-09-09T00:00:00Z</date>
+				<key>Description</key>
+				<string>Bottom of reach in freezer soiled.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-09-09T00:00:00Z</date>
+				<key>Description</key>
+				<string>Towels covering produce items in reach in cooler. </string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-19T00:00:00Z</date>
+				<key>Description</key>
+				<string>Towels covering produce items in reach in cooler.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-02-19T00:00:00Z</date>
+				<key>Description</key>
+				<string>No backflow device noted on coffee maker waterline.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-19T00:00:00Z</date>
+				<key>Description</key>
+				<string>Employee items stored on shelf in back area with consumer food items.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Critical</string>
+				<key>Date</key>
+				<date>2008-02-19T00:00:00Z</date>
+				<key>Description</key>
+				<string>Owner is cooking pasta and chicken at home and being it in to the facility to be sold. Facility does not cooking equipment or ventilation hood.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-02-19T00:00:00Z</date>
+				<key>Description</key>
+				<string>Employee noted without hair restraint.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-07-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>No handtowels at rear handsink.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-06-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>Handsinks (X2) without individually dispensed handtowels.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-06-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>Interior thermometer is missing from refrigerator in kitchen.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-06-01T00:00:00Z</date>
+				<key>Description</key>
+				<string>Food preparation employee without hair restraint (X2).</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-07-24T00:00:00Z</date>
+				<key>Description</key>
+				<string>No sanitizer test strips.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Vien Dong</string>
+		<key>address</key>
+		<string>300 West Thirteen Mile Rd., Madison Heights, MI 48073</string>
+		<key>phone</key>
+		<string>(248) 429-7519</string>
+		<key>latitude</key>
+		<string>42.5200</string>
+		<key>longitude</key>
+		<string>-83.1091</string>
+		<key>Violations</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-01-17T00:00:00Z</date>
+				<key>Description</key>
+				<string>Floor in the area used for food plating and steam table observed carpeted.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2007-10-18T00:00:00Z</date>
+				<key>Description</key>
+				<string>Carpeting located in areas where food storage, filling of food containers is located.</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Non Critical</string>
+				<key>Date</key>
+				<date>2008-07-29T00:00:00Z</date>
+				<key>Description</key>
+				<string>Floor is not smooth and easily cleanable- carpet on floor noted soiled. This area is used to bag up prepared  food for the meals on wheels program, although no food is prepared in the area.</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

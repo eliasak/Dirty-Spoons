@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'OakGovChallenge_FoodViolations' target in the 'OakGovChallenge_FoodViolations' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import "NSDate+Helper.h"
+#endif

@@ -1,0 +1,387 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765070DF74369002DB57D /* CoreGraphics.framework */; };
+		D74B40DD11FF7FB70001C186 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D74B40DC11FF7FB70001C186 /* CoreLocation.framework */; };
+		D758FE9811FF149B008AF43B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		D758FEC511FF1540008AF43B /* FoodViolationsAboutRIIS.m in Sources */ = {isa = PBXBuildFile; fileRef = D758FEB811FF1540008AF43B /* FoodViolationsAboutRIIS.m */; };
+		D758FEC611FF1540008AF43B /* FoodViolationsMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D758FEBA11FF1540008AF43B /* FoodViolationsMapViewController.m */; };
+		D758FEC711FF1540008AF43B /* FoodViolationTabs.m in Sources */ = {isa = PBXBuildFile; fileRef = D758FEBC11FF1540008AF43B /* FoodViolationTabs.m */; };
+		D758FEC811FF1540008AF43B /* Restaurant.m in Sources */ = {isa = PBXBuildFile; fileRef = D758FEBE11FF1540008AF43B /* Restaurant.m */; };
+		D758FEC911FF1540008AF43B /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D758FEC111FF1540008AF43B /* RootViewController.m */; };
+		D758FECA11FF1540008AF43B /* ViolationDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D758FEC311FF1540008AF43B /* ViolationDetailViewController.m */; };
+		D758FED411FF1612008AF43B /* RestaurantsDAO.m in Sources */ = {isa = PBXBuildFile; fileRef = D758FED211FF1612008AF43B /* RestaurantsDAO.m */; };
+		D758FEDD11FF165A008AF43B /* FoodViolationsAboutRIIS.xib in Resources */ = {isa = PBXBuildFile; fileRef = D758FED611FF165A008AF43B /* FoodViolationsAboutRIIS.xib */; };
+		D758FEDE11FF165A008AF43B /* FoodViolationsMapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D758FED711FF165A008AF43B /* FoodViolationsMapViewController.xib */; };
+		D758FEDF11FF165A008AF43B /* FoodViolationTabs.xib in Resources */ = {isa = PBXBuildFile; fileRef = D758FED811FF165A008AF43B /* FoodViolationTabs.xib */; };
+		D758FEE011FF165A008AF43B /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = D758FED911FF165A008AF43B /* MainWindow.xib */; };
+		D758FEE111FF165A008AF43B /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D758FEDA11FF165A008AF43B /* RootViewController.xib */; };
+		D758FEE211FF165A008AF43B /* SecondView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D758FEDB11FF165A008AF43B /* SecondView.xib */; };
+		D758FEE311FF165A008AF43B /* ViolationDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D758FEDC11FF165A008AF43B /* ViolationDetailViewController.xib */; };
+		D758FF1311FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D758FF1211FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.m */; };
+		D758FF4411FF1B73008AF43B /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D758FF4311FF1B73008AF43B /* MapKit.framework */; };
+		D786E43412024B1100B078B3 /* oakgov_about.png in Resources */ = {isa = PBXBuildFile; fileRef = D786E43012024B1100B078B3 /* oakgov_about.png */; };
+		D786E43512024B1100B078B3 /* oakgov_appicon.png in Resources */ = {isa = PBXBuildFile; fileRef = D786E43112024B1100B078B3 /* oakgov_appicon.png */; };
+		D786E43612024B1100B078B3 /* oakgov_map.png in Resources */ = {isa = PBXBuildFile; fileRef = D786E43212024B1100B078B3 /* oakgov_map.png */; };
+		D786E43712024B1100B078B3 /* oakgov_search.png in Resources */ = {isa = PBXBuildFile; fileRef = D786E43312024B1100B078B3 /* oakgov_search.png */; };
+		D786E46512030F9200B078B3 /* logo_oakgov.gif in Resources */ = {isa = PBXBuildFile; fileRef = D786E46312030F9200B078B3 /* logo_oakgov.gif */; };
+		D786E46612030F9200B078B3 /* logo_riis.png in Resources */ = {isa = PBXBuildFile; fileRef = D786E46412030F9200B078B3 /* logo_riis.png */; };
+		D786E52E120380D100B078B3 /* CustomCellViolation.m in Sources */ = {isa = PBXBuildFile; fileRef = D786E52D120380D100B078B3 /* CustomCellViolation.m */; };
+		D786E5341203826100B078B3 /* CustomCellViolation.xib in Resources */ = {isa = PBXBuildFile; fileRef = D786E5331203826100B078B3 /* CustomCellViolation.xib */; };
+		D791956311FF9FDE005EFB2A /* button_right.png in Resources */ = {isa = PBXBuildFile; fileRef = D791956211FF9FDE005EFB2A /* button_right.png */; };
+		D7A646711200E3FA00B0B131 /* Violation.m in Sources */ = {isa = PBXBuildFile; fileRef = D7A646701200E3FA00B0B131 /* Violation.m */; };
+		D7C38B661207566A0058FE02 /* NSDate+Helper.m in Sources */ = {isa = PBXBuildFile; fileRef = D7C38B651207566A0058FE02 /* NSDate+Helper.m */; };
+		D7C9A56D12077C4C00912D8B /* RestaurantArray.plist in Resources */ = {isa = PBXBuildFile; fileRef = D7C9A56C12077C4C00912D8B /* RestaurantArray.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D6058910D05DD3D006BFB54 /* OakGovChallenge_FoodViolations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OakGovChallenge_FoodViolations.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765070DF74369002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D74B40DC11FF7FB70001C186 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		D758FEB711FF1540008AF43B /* FoodViolationsAboutRIIS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FoodViolationsAboutRIIS.h; path = Classes/FoodViolationsAboutRIIS.h; sourceTree = "<group>"; };
+		D758FEB811FF1540008AF43B /* FoodViolationsAboutRIIS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FoodViolationsAboutRIIS.m; path = Classes/FoodViolationsAboutRIIS.m; sourceTree = "<group>"; };
+		D758FEB911FF1540008AF43B /* FoodViolationsMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FoodViolationsMapViewController.h; path = Classes/FoodViolationsMapViewController.h; sourceTree = "<group>"; };
+		D758FEBA11FF1540008AF43B /* FoodViolationsMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FoodViolationsMapViewController.m; path = Classes/FoodViolationsMapViewController.m; sourceTree = "<group>"; };
+		D758FEBB11FF1540008AF43B /* FoodViolationTabs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FoodViolationTabs.h; path = Classes/FoodViolationTabs.h; sourceTree = "<group>"; };
+		D758FEBC11FF1540008AF43B /* FoodViolationTabs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FoodViolationTabs.m; path = Classes/FoodViolationTabs.m; sourceTree = "<group>"; };
+		D758FEBD11FF1540008AF43B /* Restaurant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Restaurant.h; path = Classes/Restaurant.h; sourceTree = "<group>"; };
+		D758FEBE11FF1540008AF43B /* Restaurant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Restaurant.m; path = Classes/Restaurant.m; sourceTree = "<group>"; };
+		D758FEBF11FF1540008AF43B /* RestaurantConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RestaurantConstants.h; path = Classes/RestaurantConstants.h; sourceTree = "<group>"; };
+		D758FEC011FF1540008AF43B /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RootViewController.h; path = Classes/RootViewController.h; sourceTree = "<group>"; };
+		D758FEC111FF1540008AF43B /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RootViewController.m; path = Classes/RootViewController.m; sourceTree = "<group>"; };
+		D758FEC211FF1540008AF43B /* ViolationDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViolationDetailViewController.h; path = Classes/ViolationDetailViewController.h; sourceTree = "<group>"; };
+		D758FEC311FF1540008AF43B /* ViolationDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViolationDetailViewController.m; path = Classes/ViolationDetailViewController.m; sourceTree = "<group>"; };
+		D758FED111FF1612008AF43B /* RestaurantsDAO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RestaurantsDAO.h; path = Data/RestaurantsDAO.h; sourceTree = "<group>"; };
+		D758FED211FF1612008AF43B /* RestaurantsDAO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RestaurantsDAO.m; path = Data/RestaurantsDAO.m; sourceTree = "<group>"; };
+		D758FED611FF165A008AF43B /* FoodViolationsAboutRIIS.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = FoodViolationsAboutRIIS.xib; path = UI/FoodViolationsAboutRIIS.xib; sourceTree = "<group>"; };
+		D758FED711FF165A008AF43B /* FoodViolationsMapViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = FoodViolationsMapViewController.xib; path = UI/FoodViolationsMapViewController.xib; sourceTree = "<group>"; };
+		D758FED811FF165A008AF43B /* FoodViolationTabs.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = FoodViolationTabs.xib; path = UI/FoodViolationTabs.xib; sourceTree = "<group>"; };
+		D758FED911FF165A008AF43B /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainWindow.xib; path = UI/MainWindow.xib; sourceTree = "<group>"; };
+		D758FEDA11FF165A008AF43B /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = RootViewController.xib; path = UI/RootViewController.xib; sourceTree = "<group>"; };
+		D758FEDB11FF165A008AF43B /* SecondView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SecondView.xib; path = UI/SecondView.xib; sourceTree = "<group>"; };
+		D758FEDC11FF165A008AF43B /* ViolationDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ViolationDetailViewController.xib; path = UI/ViolationDetailViewController.xib; sourceTree = "<group>"; };
+		D758FEE711FF1685008AF43B /* OakGovChallenge_FoodViolations_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OakGovChallenge_FoodViolations_Prefix.pch; sourceTree = "<group>"; };
+		D758FEE811FF1685008AF43B /* OakGovChallenge_FoodViolations-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "OakGovChallenge_FoodViolations-Info.plist"; sourceTree = "<group>"; };
+		D758FF1111FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OakGovChallenge_FoodViolationsAppDelegate.h; sourceTree = "<group>"; };
+		D758FF1211FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OakGovChallenge_FoodViolationsAppDelegate.m; sourceTree = "<group>"; };
+		D758FF4311FF1B73008AF43B /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		D786E43012024B1100B078B3 /* oakgov_about.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = oakgov_about.png; path = UI/oakgov_about.png; sourceTree = "<group>"; };
+		D786E43112024B1100B078B3 /* oakgov_appicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = oakgov_appicon.png; path = UI/oakgov_appicon.png; sourceTree = "<group>"; };
+		D786E43212024B1100B078B3 /* oakgov_map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = oakgov_map.png; path = UI/oakgov_map.png; sourceTree = "<group>"; };
+		D786E43312024B1100B078B3 /* oakgov_search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = oakgov_search.png; path = UI/oakgov_search.png; sourceTree = "<group>"; };
+		D786E46312030F9200B078B3 /* logo_oakgov.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = logo_oakgov.gif; path = UI/logo_oakgov.gif; sourceTree = "<group>"; };
+		D786E46412030F9200B078B3 /* logo_riis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_riis.png; path = UI/logo_riis.png; sourceTree = "<group>"; };
+		D786E52C120380D100B078B3 /* CustomCellViolation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CustomCellViolation.h; path = Classes/CustomCellViolation.h; sourceTree = "<group>"; };
+		D786E52D120380D100B078B3 /* CustomCellViolation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CustomCellViolation.m; path = Classes/CustomCellViolation.m; sourceTree = "<group>"; };
+		D786E5331203826100B078B3 /* CustomCellViolation.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CustomCellViolation.xib; path = UI/CustomCellViolation.xib; sourceTree = "<group>"; };
+		D791956211FF9FDE005EFB2A /* button_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button_right.png; path = UI/button_right.png; sourceTree = "<group>"; };
+		D7A6466F1200E3FA00B0B131 /* Violation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Violation.h; sourceTree = "<group>"; };
+		D7A646701200E3FA00B0B131 /* Violation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Violation.m; sourceTree = "<group>"; };
+		D7C38B641207566A0058FE02 /* NSDate+Helper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSDate+Helper.h"; path = "helpers/NSDate+Helper.h"; sourceTree = "<group>"; };
+		D7C38B651207566A0058FE02 /* NSDate+Helper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Helper.m"; path = "helpers/NSDate+Helper.m"; sourceTree = "<group>"; };
+		D7C9A56C12077C4C00912D8B /* RestaurantArray.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = RestaurantArray.plist; path = Data/RestaurantArray.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */,
+				D758FF4411FF1B73008AF43B /* MapKit.framework in Frameworks */,
+				D74B40DD11FF7FB70001C186 /* CoreLocation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* OakGovChallenge_FoodViolations.app */,
+				D758FEE711FF1685008AF43B /* OakGovChallenge_FoodViolations_Prefix.pch */,
+				D758FEE811FF1685008AF43B /* OakGovChallenge_FoodViolations-Info.plist */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* OakGovChallenge_FoodViolations */ = {
+			isa = PBXGroup;
+			children = (
+				D758FECF11FF1586008AF43B /* Classes */,
+				D7BA3B1C1208846D00A8A94F /* HelperClasses */,
+				D758FED511FF161A008AF43B /* Data */,
+				D758FEE611FF1666008AF43B /* UI */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = OakGovChallenge_FoodViolations;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D74B40DC11FF7FB70001C186 /* CoreLocation.framework */,
+				D758FF4311FF1B73008AF43B /* MapKit.framework */,
+				288765070DF74369002DB57D /* CoreGraphics.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D758FECF11FF1586008AF43B /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				D758FF1111FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.h */,
+				D758FF1211FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.m */,
+				D758FEB711FF1540008AF43B /* FoodViolationsAboutRIIS.h */,
+				D758FEB811FF1540008AF43B /* FoodViolationsAboutRIIS.m */,
+				D758FEB911FF1540008AF43B /* FoodViolationsMapViewController.h */,
+				D758FEBA11FF1540008AF43B /* FoodViolationsMapViewController.m */,
+				D758FEBB11FF1540008AF43B /* FoodViolationTabs.h */,
+				D758FEBC11FF1540008AF43B /* FoodViolationTabs.m */,
+				D758FEBF11FF1540008AF43B /* RestaurantConstants.h */,
+				D758FEC011FF1540008AF43B /* RootViewController.h */,
+				D758FEC111FF1540008AF43B /* RootViewController.m */,
+				D758FEC211FF1540008AF43B /* ViolationDetailViewController.h */,
+				D758FEC311FF1540008AF43B /* ViolationDetailViewController.m */,
+				D786E52C120380D100B078B3 /* CustomCellViolation.h */,
+				D786E52D120380D100B078B3 /* CustomCellViolation.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		D758FED511FF161A008AF43B /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				D7C9A56C12077C4C00912D8B /* RestaurantArray.plist */,
+				D758FEBD11FF1540008AF43B /* Restaurant.h */,
+				D758FEBE11FF1540008AF43B /* Restaurant.m */,
+				D758FED111FF1612008AF43B /* RestaurantsDAO.h */,
+				D758FED211FF1612008AF43B /* RestaurantsDAO.m */,
+				D7A6466F1200E3FA00B0B131 /* Violation.h */,
+				D7A646701200E3FA00B0B131 /* Violation.m */,
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
+		D758FEE611FF1666008AF43B /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				D7BA3B1F1208849C00A8A94F /* Images */,
+				D786E5331203826100B078B3 /* CustomCellViolation.xib */,
+				D758FED611FF165A008AF43B /* FoodViolationsAboutRIIS.xib */,
+				D758FED711FF165A008AF43B /* FoodViolationsMapViewController.xib */,
+				D758FED811FF165A008AF43B /* FoodViolationTabs.xib */,
+				D758FED911FF165A008AF43B /* MainWindow.xib */,
+				D758FEDA11FF165A008AF43B /* RootViewController.xib */,
+				D758FEDB11FF165A008AF43B /* SecondView.xib */,
+				D758FEDC11FF165A008AF43B /* ViolationDetailViewController.xib */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		D7BA3B1C1208846D00A8A94F /* HelperClasses */ = {
+			isa = PBXGroup;
+			children = (
+				D7C38B641207566A0058FE02 /* NSDate+Helper.h */,
+				D7C38B651207566A0058FE02 /* NSDate+Helper.m */,
+			);
+			name = HelperClasses;
+			sourceTree = "<group>";
+		};
+		D7BA3B1F1208849C00A8A94F /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				D786E46312030F9200B078B3 /* logo_oakgov.gif */,
+				D786E46412030F9200B078B3 /* logo_riis.png */,
+				D786E43012024B1100B078B3 /* oakgov_about.png */,
+				D786E43112024B1100B078B3 /* oakgov_appicon.png */,
+				D786E43212024B1100B078B3 /* oakgov_map.png */,
+				D786E43312024B1100B078B3 /* oakgov_search.png */,
+				D791956211FF9FDE005EFB2A /* button_right.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* OakGovChallenge_FoodViolations */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "OakGovChallenge_FoodViolations" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OakGovChallenge_FoodViolations;
+			productName = OakGovChallenge_FoodViolations;
+			productReference = 1D6058910D05DD3D006BFB54 /* OakGovChallenge_FoodViolations.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "OakGovChallenge_FoodViolations" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* OakGovChallenge_FoodViolations */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* OakGovChallenge_FoodViolations */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D758FEDD11FF165A008AF43B /* FoodViolationsAboutRIIS.xib in Resources */,
+				D758FEDE11FF165A008AF43B /* FoodViolationsMapViewController.xib in Resources */,
+				D758FEDF11FF165A008AF43B /* FoodViolationTabs.xib in Resources */,
+				D758FEE011FF165A008AF43B /* MainWindow.xib in Resources */,
+				D758FEE111FF165A008AF43B /* RootViewController.xib in Resources */,
+				D758FEE211FF165A008AF43B /* SecondView.xib in Resources */,
+				D758FEE311FF165A008AF43B /* ViolationDetailViewController.xib in Resources */,
+				D791956311FF9FDE005EFB2A /* button_right.png in Resources */,
+				D786E43412024B1100B078B3 /* oakgov_about.png in Resources */,
+				D786E43512024B1100B078B3 /* oakgov_appicon.png in Resources */,
+				D786E43612024B1100B078B3 /* oakgov_map.png in Resources */,
+				D786E43712024B1100B078B3 /* oakgov_search.png in Resources */,
+				D786E46512030F9200B078B3 /* logo_oakgov.gif in Resources */,
+				D786E46612030F9200B078B3 /* logo_riis.png in Resources */,
+				D786E5341203826100B078B3 /* CustomCellViolation.xib in Resources */,
+				D7C9A56D12077C4C00912D8B /* RestaurantArray.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D758FE9811FF149B008AF43B /* main.m in Sources */,
+				D758FEC511FF1540008AF43B /* FoodViolationsAboutRIIS.m in Sources */,
+				D758FEC611FF1540008AF43B /* FoodViolationsMapViewController.m in Sources */,
+				D758FEC711FF1540008AF43B /* FoodViolationTabs.m in Sources */,
+				D758FEC811FF1540008AF43B /* Restaurant.m in Sources */,
+				D758FEC911FF1540008AF43B /* RootViewController.m in Sources */,
+				D758FECA11FF1540008AF43B /* ViolationDetailViewController.m in Sources */,
+				D758FED411FF1612008AF43B /* RestaurantsDAO.m in Sources */,
+				D758FF1311FF187F008AF43B /* OakGovChallenge_FoodViolationsAppDelegate.m in Sources */,
+				D7A646711200E3FA00B0B131 /* Violation.m in Sources */,
+				D786E52E120380D100B078B3 /* CustomCellViolation.m in Sources */,
+				D7C38B661207566A0058FE02 /* NSDate+Helper.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = OakGovChallenge_FoodViolations_Prefix.pch;
+				INFOPLIST_FILE = "OakGovChallenge_FoodViolations-Info.plist";
+				PRODUCT_NAME = OakGovChallenge_FoodViolations;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = OakGovChallenge_FoodViolations_Prefix.pch;
+				INFOPLIST_FILE = "OakGovChallenge_FoodViolations-Info.plist";
+				PRODUCT_NAME = OakGovChallenge_FoodViolations;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "OakGovChallenge_FoodViolations" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "OakGovChallenge_FoodViolations" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
